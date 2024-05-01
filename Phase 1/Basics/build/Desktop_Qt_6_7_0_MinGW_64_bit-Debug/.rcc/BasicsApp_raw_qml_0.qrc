@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Main/">
+    <file alias="main.qml">M:/git/GitHub/qml-lerning/Phase 1/Basics/main.qml</file>
+  </qresource>
+</RCC>
+

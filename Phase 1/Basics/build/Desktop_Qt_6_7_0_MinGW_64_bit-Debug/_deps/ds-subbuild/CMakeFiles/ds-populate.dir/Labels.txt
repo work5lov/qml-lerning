@@ -1,0 +1,14 @@
+# Target labels
+ ds-populate
+# Source files and their labels
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate.rule
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/CMakeFiles/ds-populate-complete.rule
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-build.rule
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-configure.rule
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-download.rule
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-install.rule
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-mkdir.rule
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-patch.rule
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-test.rule
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-subbuild/ds-populate-prefix/src/ds-populate-stamp/ds-populate-update.rule

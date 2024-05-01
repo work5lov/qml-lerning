@@ -1,0 +1,15 @@
+-rootPath
+M:/git/GitHub/qml-lerning/Phase 1/Basics
+-cmake-output
+-output-file
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_BasicsApp.cmake
+-importPath
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/Main
+-importPath
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml
+-importPath
+C:/Qt/new/6.7.0/mingw_64/./qml
+-qrcFiles
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/configuration.qrc
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmake_Main.qrc
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/BasicsApp_raw_qml_0.qrc

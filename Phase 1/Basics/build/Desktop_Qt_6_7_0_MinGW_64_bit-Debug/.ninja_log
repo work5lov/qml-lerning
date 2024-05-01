@@ -1,0 +1,946 @@
+# ninja log v5
+98	1313	7362407373635409	.qt_plugins/Qt6_QmlPlugins_Imports_BasicsApp.cmake	7e2fb93f564f9a7c
+13046	15068	7362395896539564	_deps/ds-build/src/imports/utils/.rcc/qrc_qmake_QtQuick_Studio_Utils.cpp	8f41864fde3b250f
+35972	38398	7362396128684363	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_EllipseItem_qml.cpp	221b2b768d9d4fff
+73575	75800	7362396500131264	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/meta_types/QuickStudioEventSimulator_json_file_list.txt	180db4eeff5e79dc
+10911	12625	7362395873586950	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/meta_types/qt6quickstudioapplication_debug_metatypes.json	f3051db7af03826d
+98	1313	7362407373635409	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_BasicsApp.cmake	7e2fb93f564f9a7c
+52488	54482	7362396286660342	qml/FlowView/FlowTransitionList.qml	4f65c45e1eae26e2
+72	274	7362407543208148	qml/Main/main.qml	ecf9a20d4dadcdd2
+1314	17862	7362409363298258	build.ninja	307155864bc7f480
+426	8639	7362395815115770	_deps/ds-build/src/imports/application/QuickStudioApplication_autogen/mocs_compilation.cpp	86d334c06fbb2025
+95053	95866	7362396715371948	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/meta_types/Basics_json_file_list.txt.timestamp	116c39bddab05307
+134	2819	7362395762042882	qml/QtQuick/Studio/Effects/DesaturationItem.qml	28a03af76302a98b
+68801	73134	7362396468321508	_deps/ds-build/src/imports/effects_qt6/libQuickStudioEffects.a	54d91b2e44dce46a
+36428	38649	7362396131963273	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_RegularPolygonItem_qml.cpp	36365a871def6022
+817	1043	7362407550772768	.rcc/qrc_BasicsApp_raw_qml_0.cpp	f21afefde0ad863d
+10337	11668	7362395865949418	qml/QtQuick/Studio/Components/IsoItem.qml	1fc7e03912ecac66
+4235	5748	7362395804869100	qml/content/fonts/fonts.txt	79aecb8d5078f90d
+92122	97602	7362396729227496	imports/Basics/CMakeFiles/Basicsplugin_init.dir/Basicsplugin_init.cpp.obj	4cc29006cd3b308d
+59570	64191	7362396384218572	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/QuickStudioMultiText_autogen/mocs_compilation.cpp	a64e08cb0c6beedf
+45	2539	7362395761059404	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/LogicHelper/MinMaxMapper.qml	2b4c9d12d3e96838
+212	3090	7362395767691040	imports/Basics/CMakeFiles/Basics_resources_1.dir/.rcc/qrc_qmake_Basics_init.cpp.obj	9335c3dafec09699
+18675	20328	7362395948993049	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/LevelAdjustItem.qml	8cd9b2332d32c9dd
+45	2539	7362395761059404	qml/QtQuick/Studio/LogicHelper/MinMaxMapper.qml	2b4c9d12d3e96838
+72	274	7362407543208148	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/Main/main.qml	ecf9a20d4dadcdd2
+70613	72240	7362396477358588	_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_RangeMapper_qml.cpp	fa165800945c6214
+89236	90199	7362396656520909	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/meta_types/QuickStudioEventSystem_json_file_list.txt.timestamp	24c80c64b70d5fad
+16361	18240	7362395924738271	qml/QtQuick/Studio/Effects/BlendItem.qml	cc4ff4d9a9cf4775
+134	2819	7362395762042882	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/DesaturationItem.qml	28a03af76302a98b
+552	3359	7362395777177996	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/QuickStudioApplicationplugin_init_autogen/timestamp	be0072709d84ddbe
+65718	66975	7362396423086054	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_1.dir/.rcc/qrc_qmake_QtQuick_Studio_EventSystem_init.cpp.obj	a4ecc040df52b6ee
+12387	14279	7362395885273190	qml/QtQuick/Studio/Components/EllipseItem.qml	286cb849b84fdb95
+2430	7584	7362395803979378	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/QuickStudioUtilsplugin_init_autogen/mocs_compilation.cpp	4ac35761ea90b055
+39837	48764	7362396244813802	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_qmlcache_loader.cpp.obj	5a8659f5876e0272
+552	3359	7362395777177996	_deps/ds-build/src/imports/application/QuickStudioApplicationplugin_init_autogen/timestamp	be0072709d84ddbe
+4919	6703	7362395813396336	qml/QtQuick/Studio/Effects/FastBlurItem.qml	f79a80eaa4b5b19e
+54768	62152	7362396357647129	_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelperplugin_autogen/mocs_compilation.cpp	594dc83b1159ba72
+15817	17789	7362395919949824	qml/QtQuick/Studio/Effects/OpacityMaskItem.qml	4489bda3f51de51d
+2430	7584	7362395803979378	_deps/ds-build/src/imports/utils/QuickStudioUtilsplugin_init_autogen/mocs_compilation.cpp	4ac35761ea90b055
+82127	84278	7362396588122920	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/EventSimulator/QuickStudioEventSimulator.qmltypes	ab31405bdfc8d18b
+16778	23415	7362395974634774	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_init.dir/QuickStudioComponentsplugin_init.cpp.obj	448abd71cfe28b2
+552	3359	7362395777177996	_deps/ds-build/src/imports/application/QuickStudioApplicationplugin_init_autogen/mocs_compilation.cpp	be0072709d84ddbe
+32874	36428	7362396114261338	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_PieItem_qml.cpp	f09d6e3d96b1e67a
+552	3359	7362395777177996	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/QuickStudioApplicationplugin_init_autogen/mocs_compilation.cpp	be0072709d84ddbe
+1711	4629	7362395782356334	qml/QtQuick/Studio/Utils/JsonListModel.qml	334f6b92aa500b60
+88692	95669	7362396690569952	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/Basicsplugin_autogen/mocs_compilation.cpp	db57b8fac1dae5ec
+4448	6102	7362395808198009	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/GlowItem.qml	f910446e9520a333
+642	3717	7362395778167686	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_resources_1.dir/.rcc/qrc_qmake_QtQuick_Studio_Utils_init.cpp.obj	5bfbaa991a606272
+7359	9210	7362395837758513	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/ArcItem.qml	a6fb2204975b7d34
+21436	31692	7362396064835996	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/quickstudiofilereader.cpp.obj	4c2e1fce0189af64
+804	3899	7362395779727183	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils_resources_2.dir/.rcc/qrc_QuickStudioUtils_raw_qml_0_init.cpp.obj	b4c99c34fedfefd2
+65038	72576	7362396453696198	_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulatorplugin_autogen/mocs_compilation.cpp	6f9399217c3555de
+135	291	7362398412035514	qml/content/Screen01.ui.qml	471a65201e6d137b
+65570	69592	7362396434932236	_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulatorplugin_init_autogen/timestamp	43e380ea454a33d6
+35570	38015	7362396123635953	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_TriangleItem_qml.cpp	168a11ac58e09d85
+19623	21203	7362395962678637	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/meta_types/qt6quickstudiocomponents_debug_metatypes.json	5deb48593e34ab02
+15716	17629	7362395920269703	qml/content/content.qmltypes	140e37092334b4e3
+2105	9906	7362395831610488	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/QuickStudioUtilsplugin_autogen/timestamp	da499062f67c2809
+8153	10336	7362395845326048	qml/QtQuick/Studio/Components/SvgPathItem.qml	336239e9ba10681b
+63489	65241	7362396399243728	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qrc_QuickStudioLogicHelper_raw_qml_0.cpp	583f90e226e6d65b
+926	4233	7362395776898092	qml/QtQuick/Studio/Utils/JsonBackend.qml	5ddc47aa8e0330e3
+15526	17405	7362395926017861	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/QuickStudioComponents_autogen/mocs_compilation.cpp	779521f632cd555
+67662	70613	7362396451127047	_deps/ds-build/src/imports/flowview/CMakeFiles/FlowView.dir/.rcc/qrc_FlowView_raw_qml_0.cpp.obj	4e77af1d0175c46a
+3094	5534	7362395797331523	qml/content/App.qml	38ebb8848051cadd
+95540	96506	7362396722829551	qml/QtQuick/Studio/EventSimulator/libQuickStudioEventSimulatorplugin.a	b60ca0b4969b927f
+926	4233	7362395776898092	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Utils/JsonBackend.qml	5ddc47aa8e0330e3
+2105	9906	7362395831610488	_deps/ds-build/src/imports/utils/QuickStudioUtilsplugin_autogen/mocs_compilation.cpp	da499062f67c2809
+1153	4446	7362395781226710	qml/QtQuick/Studio/Utils/ChildListModel.qml	f727af2a155624ff
+50616	51686	7362396268816081	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowSlideUpEffect.qml	b446093802f78f1a
+426	8639	7362395815115770	_deps/ds-build/src/imports/application/QuickStudioApplication_autogen/timestamp	86d334c06fbb2025
+1153	4446	7362395781226710	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Utils/ChildListModel.qml	f727af2a155624ff
+20857	30678	7362396060887262	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/QuickStudioUtils_autogen/mocs_compilation.cpp.obj	ef390a45b6ab6c83
+1711	4629	7362395782356334	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Utils/JsonListModel.qml	334f6b92aa500b60
+2541	4918	7362395795642044	content/CMakeFiles/content_resources_1.dir/.rcc/qrc_qmake_content_init.cpp.obj	602dc020c9d7bbfd
+2681	5123	7362395797491465	content/CMakeFiles/content_resources_2.dir/.rcc/qrc_content_raw_qml_0_init.cpp.obj	6afcdb7127079d71
+135	291	7362398412035514	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+72576	74372	7362396496062568	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init.dir/3eb5a0da2ee8782eae275510c0102f63/mocs_compilation.cpp.obj	d25b2aa41460896b
+19199	20771	7362395958410002	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonBackend_qml.cpp	2b358737b78281fd
+71561	73853	7362396487445351	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_OrOperator_qml.cpp	bf8c13d400ee45ce
+8372	10455	7362395847845237	qml/QtQuick/Studio/Components/PieItem.qml	78a00ef59bdd08e3
+57809	59219	7362396341522337	qml/QtQuick/Studio/MultiText/MultiTextElement.qml	4505451ab81271cd
+6103	8371	7362395826961989	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/ZoomBlurItem.qml	847925dd5b35dedb
+3094	5534	7362395797331523	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/App.qml	38ebb8848051cadd
+4448	6102	7362395808198009	qml/QtQuick/Studio/Effects/GlowItem.qml	f910446e9520a333
+2228	6862	7362406518522613	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Bapp_qml.cpp.obj	cdd4ed879fffe70e
+4235	5748	7362395804869100	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/fonts/fonts.txt	79aecb8d5078f90d
+12626	14427	7362395893890438	_deps/ds-build/src/imports/application/quickstudioapplication_qmltyperegistrations.cpp	f1bbea9a8502d14
+55680	57808	7362396321752527	qml/QtQuick/Studio/LogicHelper/StringMapper.qml	3a8cb37a01eb5845
+4919	6703	7362395813396336	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/FastBlurItem.qml	f79a80eaa4b5b19e
+5359	7358	7362395830061005	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents_resources_1.dir/.rcc/qrc_qmake_QtQuick_Studio_Components_init.cpp.obj	a85cc5acb7195812
+2430	7584	7362395803979378	_deps/ds-build/src/imports/utils/QuickStudioUtilsplugin_init_autogen/timestamp	4ac35761ea90b055
+90200	91590	7362396671795993	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/meta_types/qt6quickstudioeventsystem_debug_metatypes.json	2287b91148da5923
+14171	15715	7362395907396076	content/meta_types/qt6content_debug_metatypes.json	c57605c154b7e343
+29975	32690	7362396065385829	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/QuickStudioComponents.qmltypes	2346aaf4de79135e
+46900	65404	7362396399733583	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_IsoItem_qml.cpp.obj	5bd032fc51dffbee
+2430	7584	7362395803979378	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/QuickStudioUtilsplugin_init_autogen/timestamp	4ac35761ea90b055
+58525	62542	7362396369783213	_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_init_autogen/timestamp	a7df7cf28a071e44
+339	8152	7362395807498227	_deps/ds-build/src/imports/application/QuickStudioApplicationplugin_autogen/timestamp	ce70ad472f08802c
+5535	7826	7362395830740744	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents_resources_2.dir/.rcc/qrc_QuickStudioComponents_raw_qml_0_init.cpp.obj	724a1a6e8ab48c7
+90412	94556	7362396687960807	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/Basics_autogen/timestamp	77f35d6bc61e931e
+69592	73574	7362396472580140	_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_StringMapper_qml.cpp	c761f81070fe9919
+339	8152	7362395807498227	_deps/ds-build/src/imports/application/QuickStudioApplicationplugin_autogen/mocs_compilation.cpp	ce70ad472f08802c
+18884	20419	7362395949872753	qml/QtQuick/Studio/Effects/BlendEffect.qml	b5c0139703d3add8
+339	8152	7362395807498227	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/QuickStudioApplicationplugin_autogen/timestamp	ce70ad472f08802c
+56601	58279	7362396330645971	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/LogicHelper/NotOperator.qml	e4bf8452a375febd
+426	8639	7362395815115770	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/QuickStudioApplication_autogen/timestamp	86d334c06fbb2025
+51687	53355	7362396280932170	qml/FlowView/FlowPushRightEffect.qml	6e139a85ea9c48f0
+339	8152	7362395807498227	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/QuickStudioApplicationplugin_autogen/mocs_compilation.cpp	ce70ad472f08802c
+79612	80762	7362396564880405	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin.dir/QuickStudioMultiTextplugin_autogen/mocs_compilation.cpp.obj	80e5ea67cc720f68
+426	8639	7362395815115770	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/QuickStudioApplication_autogen/mocs_compilation.cpp	86d334c06fbb2025
+6103	8371	7362395826961989	qml/QtQuick/Studio/Effects/ZoomBlurItem.qml	847925dd5b35dedb
+53256	54936	7362396293838018	qml/FlowView/+DesignMode/FlowView.qml	6ef9b5f3015eaae9
+306	971	7362406458788921	content/contentplugin_init_autogen/timestamp	5f64cde1229e877
+8153	10336	7362395845326048	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/SvgPathItem.qml	336239e9ba10681b
+306	971	7362406458788921	content/contentplugin_init_autogen/mocs_compilation.cpp	5f64cde1229e877
+306	971	7362406458788921	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/contentplugin_init_autogen/timestamp	5f64cde1229e877
+306	971	7362406458788921	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/contentplugin_init_autogen/mocs_compilation.cpp	5f64cde1229e877
+7359	9210	7362395837758513	qml/QtQuick/Studio/Components/ArcItem.qml	a6fb2204975b7d34
+7585	9725	7362395846575666	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_init.dir/QuickStudioUtilsplugin_init_autogen/mocs_compilation.cpp.obj	e4baf16128f59416
+20678	22546	7362395968526740	qml/QtQuick/Studio/Effects/GaussianBlurEffect.qml	dabca37fb79e7425
+2105	9906	7362395831610488	_deps/ds-build/src/imports/utils/QuickStudioUtilsplugin_autogen/timestamp	da499062f67c2809
+36889	39034	7362396136388025	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_StraightArrow_qml.cpp	4bdaf2b5357e3a56
+2105	9906	7362395831610488	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/QuickStudioUtilsplugin_autogen/mocs_compilation.cpp	da499062f67c2809
+11271	13484	7362395874126780	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/BorderItem.qml	21c9ec023387378
+15325	17165	7362395914283865	qml/QtQuick/Studio/Effects/DirectionalBlurItem.qml	18dc66a4e3ab5e5f
+85440	87929	7362396625230984	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulator.dir/.rcc/qrc_qmake_QtQuick_Studio_EventSimulator.cpp.obj	b542ef39935f4caa
+8372	10455	7362395847845237	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/PieItem.qml	78a00ef59bdd08e3
+8640	10791	7362395856162561	_deps/ds-build/src/imports/application/.rcc/qrc_qmake_QtQuick_Studio_Application.cpp	95f9f98e0097369d
+19623	21203	7362395962678637	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/meta_types/qt6quickstudiocomponents_debug_metatypes.json.gen	5deb48593e34ab02
+8640	10791	7362395856162561	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/.rcc/qrc_qmake_QtQuick_Studio_Application.cpp	95f9f98e0097369d
+58280	62315	7362396366644234	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelper_autogen/mocs_compilation.cpp	1432ce22f56970fe
+8880	10910	7362395861420898	_deps/ds-build/src/imports/application/meta_types/QuickStudioApplication_json_file_list.txt	1950c7d4e4c7a769
+16452	18480	7362395926787623	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/BrightnessContrastEffect.qml	6149a431012d05f4
+54050	56482	7362396305730438	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/meta_types/QuickStudioEffects_json_file_list.txt.timestamp	2a3f3a9c0910d6b8
+8880	10910	7362395861420898	_deps/ds-build/src/imports/application/meta_types/QuickStudioApplication_json_file_list.txt.timestamp	1950c7d4e4c7a769
+8880	10910	7362395861420898	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/meta_types/QuickStudioApplication_json_file_list.txt	1950c7d4e4c7a769
+17298	19096	7362395935157488	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/quickstudioutils_qmltyperegistrations.cpp	27009ad8aeb6cf77
+31976	34168	7362396082300379	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/ThresholdMaskEffect.qml	55810195573fd3fe
+38399	40413	7362396145485789	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowEffect.qml	d92549e7aa923f3
+8880	10910	7362395861420898	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/meta_types/QuickStudioApplication_json_file_list.txt.timestamp	1950c7d4e4c7a769
+65831	68316	7362396422686177	_deps/ds-build/src/imports/logichelper/quickstudiologichelper_qmltyperegistrations.cpp	ad8577162a4f00d7
+9212	11007	7362395866539220	content/CMakeFiles/contentplugin_init.dir/contentplugin_init_autogen/mocs_compilation.cpp.obj	f09fc8b528efce4c
+13639	15405	7362395899998454	_deps/ds-build/src/imports/utils/meta_types/QuickStudioUtils_json_file_list.txt	a2bf94eef819cc6f
+56482	58156	7362396331735491	_deps/ds-build/src/imports/effects_qt6/meta_types/qt6quickstudioeffects_debug_metatypes.json.gen	1ba3348bacf66fa7
+3359	11094	7362395849294785	_deps/ds-build/src/imports/application/CMakeFiles/QuickStudioApplicationplugin_init.dir/QuickStudioApplicationplugin_init.cpp.obj	315a321be984b759
+153	927	7362406458778919	content/contentplugin_autogen/timestamp	4919d1220b3bc26f
+58525	62542	7362396369783213	_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_init_autogen/mocs_compilation.cpp	a7df7cf28a071e44
+153	927	7362406458778919	content/contentplugin_autogen/mocs_compilation.cpp	4919d1220b3bc26f
+153	927	7362406458778919	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/contentplugin_autogen/timestamp	4919d1220b3bc26f
+153	927	7362406458778919	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/contentplugin_autogen/mocs_compilation.cpp	4919d1220b3bc26f
+6704	14782	7362395882714038	_deps/ds-build/src/imports/components/QuickStudioComponentsplugin_autogen/mocs_compilation.cpp	206a6f0d2f10fcb2
+53659	55509	7362396303507493	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_resources_1.dir/.rcc/qrc_qmake_QtQuick_Studio_LogicHelper_init.cpp.obj	9cf3782ed769274f
+88850	92122	7362396670506412	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/Basicsplugin_init_autogen/mocs_compilation.cpp	b4d1b81952c8aa82
+558	1096	7362406461018207	content/content_autogen/timestamp	32d8727e919de01b
+59950	61715	7362396366004430	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/.rcc/qrc_FlowView_raw_qml_0.cpp	ff65e1db43255f2b
+95350	95972	7362396716781507	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/.rcc/qrc_Basics_raw_qml_0.cpp	f3a8f0d81b2de633
+558	1096	7362406461018207	content/content_autogen/mocs_compilation.cpp	32d8727e919de01b
+14563	16171	7362395908115847	qml/QtQuick/Studio/Effects/MaskedBlurItem.qml	47b98d378f47c291
+558	1096	7362406461018207	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/content_autogen/timestamp	32d8727e919de01b
+558	1096	7362406461018207	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/content_autogen/mocs_compilation.cpp	32d8727e919de01b
+82127	84278	7362396588122920	qml/QtQuick/Studio/EventSimulator/QuickStudioEventSimulator.qmltypes	ab31405bdfc8d18b
+9908	11505	7362395864919751	qml/QtQuick/Studio/Components/RegularPolygonItem.qml	3d956c0804b4b8cd
+9908	11505	7362395864919751	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/RegularPolygonItem.qml	3d956c0804b4b8cd
+10337	11668	7362395865949418	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/IsoItem.qml	1fc7e03912ecac66
+10792	12448	7362395869108396	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/RectangleItem.qml	6297c6d72644dbcc
+10456	11805	7362395868118702	qml/QtQuick/Studio/Components/TriangleItem.qml	4f647510c08335d4
+60359	61936	7362396368803535	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/meta_types/FlowView_json_file_list.txt.timestamp	d46c356ee65d69fc
+65038	72576	7362396453696198	_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulatorplugin_autogen/timestamp	6f9399217c3555de
+10456	11805	7362395868118702	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/TriangleItem.qml	4f647510c08335d4
+16859	18674	7362395931338714	qml/QtQuick/Studio/Effects/GaussianBlurItem.qml	899b44a0f7a13d6c
+5124	12386	7362395860251275	_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_autogen/timestamp	a147fdeba925727d
+49719	54049	7362396283681291	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffects_autogen/mocs_compilation.cpp	2a956843604c9451
+5124	12386	7362395860251275	_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_autogen/mocs_compilation.cpp	a147fdeba925727d
+5124	12386	7362395860251275	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_autogen/timestamp	a147fdeba925727d
+18083	19622	7362395944364528	_deps/ds-build/src/imports/components/meta_types/QuickStudioComponents_json_file_list.txt.timestamp	e0cb715efdd5102e
+98519	104529	7362396803563564	imports/Basics/CMakeFiles/Basics.dir/.rcc/qmlcache/Basics_Constants_qml.cpp.obj	7553797e2c87d2ac
+5124	12386	7362395860251275	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_autogen/mocs_compilation.cpp	a147fdeba925727d
+58387	65569	7362396396344657	_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_autogen/timestamp	4f97e20663e4621f
+10792	12448	7362395869108396	qml/QtQuick/Studio/Components/RectangleItem.qml	6297c6d72644dbcc
+56482	58156	7362396331735491	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/meta_types/qt6quickstudioeffects_debug_metatypes.json.gen	1ba3348bacf66fa7
+10911	12625	7362395873586950	_deps/ds-build/src/imports/application/meta_types/qt6quickstudioapplication_debug_metatypes.json.gen	f3051db7af03826d
+95684	96585	7362396724189111	_deps/ds-build/src/imports/application/libQuickStudioApplication.a	f926841f1aa9d6e1
+73575	75800	7362396500131264	_deps/ds-build/src/imports/tools/eventsimulator/meta_types/QuickStudioEventSimulator_json_file_list.txt	180db4eeff5e79dc
+64794	66008	7362396410510101	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/meta_types/QuickStudioMultiText_json_file_list.txt	2c070eb9bd4c2cda
+10911	12625	7362395873586950	_deps/ds-build/src/imports/application/meta_types/qt6quickstudioapplication_debug_metatypes.json	f3051db7af03826d
+88993	90411	7362396653371906	qml/Basics/EventListSimulator.qml	183ece81cb16da2d
+10911	12625	7362395873586950	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/meta_types/qt6quickstudioapplication_debug_metatypes.json.gen	f3051db7af03826d
+11105	13046	7362395872797203	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/FlipableItem.qml	ba64854c263e7192
+97346	98278	7362396740793772	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/.rcc/qmlcache/Basics_DirectoryFontLoader_qml.cpp	dfca6c50467eaf48
+88850	92122	7362396670506412	imports/Basics/Basicsplugin_init_autogen/timestamp	b4d1b81952c8aa82
+11009	12757	7362395871647610	qml/QtQuick/Studio/Components/GroupItem.qml	78c4dfd8429df9ad
+15606	17491	7362395917083219	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/SaturationItem.qml	c77ef0365b714377
+11009	12757	7362395871647610	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/GroupItem.qml	78c4dfd8429df9ad
+66009	67868	7362396431713299	_deps/ds-build/src/imports/multitext/meta_types/qt6quickstudiomultitext_debug_metatypes.json.gen	f37fbd57ff6205b6
+4630	12871	7362395861860722	_deps/ds-build/src/imports/utils/QuickStudioUtils_autogen/timestamp	aa05ec09a0b420ea
+4630	12871	7362395861860722	_deps/ds-build/src/imports/utils/QuickStudioUtils_autogen/mocs_compilation.cpp	aa05ec09a0b420ea
+17405	19198	7362395935947236	_deps/ds-build/src/imports/components/.rcc/qrc_qmake_QtQuick_Studio_Components.cpp	ea39ddc8a74f5336
+20329	21896	7362395964608020	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/DropShadowEffect.qml	3a4aa944538fc64e
+4630	12871	7362395861860722	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/QuickStudioUtils_autogen/timestamp	aa05ec09a0b420ea
+50376	51356	7362396267506504	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowPushUpEffect.qml	b75b3562bfb68922
+4630	12871	7362395861860722	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/QuickStudioUtils_autogen/mocs_compilation.cpp	aa05ec09a0b420ea
+11105	13046	7362395872797203	qml/QtQuick/Studio/Components/FlipableItem.qml	ba64854c263e7192
+11271	13484	7362395874126780	qml/QtQuick/Studio/Components/BorderItem.qml	21c9ec023387378
+95350	95972	7362396716781507	imports/Basics/.rcc/qrc_Basics_raw_qml_0.cpp	f3a8f0d81b2de633
+1212	1720	7362406465576728	content/.rcc/qrc_qmake_content.cpp	a8672957c56b49c6
+1212	1720	7362406465576728	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_qmake_content.cpp	a8672957c56b49c6
+49605	64502	7362396392086026	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin.dir/QuickStudioComponentsplugin_QtQuick_Studio_ComponentsPlugin.cpp.obj	cb371a670b12cf0e
+1098	1720	7362406464357123	content/.rcc/qmlcache/content_qmlcache_loader.cpp	49f3ffabff4ec3e7
+58157	60605	7362396344021528	_deps/ds-build/src/imports/effects_qt6/quickstudioeffects_qmltyperegistrations.cpp	7b442ccbcf78339c
+17298	19096	7362395935157488	qml/QtQuick/Studio/Utils/QuickStudioUtils.qmltypes	27009ad8aeb6cf77
+1098	1720	7362406464357123	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_qmlcache_loader.cpp	49f3ffabff4ec3e7
+17298	19096	7362395935157488	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Utils/QuickStudioUtils.qmltypes	27009ad8aeb6cf77
+1306	1739	7362406466549122	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+54483	56761	7362396308519639	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/.rcc/qrc_QuickStudioEffects_raw_qml_0.cpp	209d2c68dd8b1309
+1306	1739	7362406466549122	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+1159	1492	7362406459338755	content/meta_types/content_json_file_list.txt	4ff869a7aa61a174
+1159	1492	7362406459338755	content/meta_types/content_json_file_list.txt.timestamp	4ff869a7aa61a174
+18481	20085	7362395947663460	qml/QtQuick/Studio/Effects/InnerShadowItem.qml	44b0b6e66501c80e
+1159	1492	7362406459338755	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/meta_types/content_json_file_list.txt	4ff869a7aa61a174
+55191	60358	7362396331865441	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelperplugin_init_autogen/timestamp	98e4ca91226049af
+1159	1492	7362406459338755	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/meta_types/content_json_file_list.txt.timestamp	4ff869a7aa61a174
+40414	49603	7362396251111778	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_RegularPolygonItem_qml.cpp.obj	959d2078ed92d81a
+15224	17023	7362395913884000	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/HueSaturationItem.qml	cf2ac8cc60be7d6b
+95867	96389	7362396722049802	imports/Basics/meta_types/qt6basics_debug_metatypes.json.gen	d83c0dc564ab0a5
+12387	14279	7362395885273190	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/EllipseItem.qml	286cb849b84fdb95
+24000	36888	7362396099005014	content/CMakeFiles/content.dir/.rcc/qmlcache/content_App_qml.cpp.obj	3ad030683998243c
+12626	14427	7362395893890438	qml/QtQuick/Studio/Application/QuickStudioApplication.qmltypes	f1bbea9a8502d14
+12449	16650	7362395902347708	_deps/ds-build/src/imports/components/QuickStudioComponentsplugin_init_autogen/mocs_compilation.cpp	784e0b6933781f08
+12626	14427	7362395893890438	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/application/quickstudioapplication_qmltyperegistrations.cpp	f1bbea9a8502d14
+7828	15223	7362395889641788	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin_init.dir/QuickStudioUtilsplugin_init.cpp.obj	e61ea677c4f227f1
+19199	20771	7362395958410002	_deps/ds-build/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonBackend_qml.cpp	2b358737b78281fd
+12626	14427	7362395893890438	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Application/QuickStudioApplication.qmltypes	f1bbea9a8502d14
+96390	97118	7362396725418715	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/basics_qmltyperegistrations.cpp	6a1f1a1074a3efbb
+95867	96389	7362396722049802	imports/Basics/meta_types/qt6basics_debug_metatypes.json	d83c0dc564ab0a5
+12758	14563	7362395890391561	qml/QtQuick/Studio/Components/StraightArrow.qml	45e85f25c0fcbfcd
+98560	105428	7362396812390721	imports/Basics/CMakeFiles/Basics.dir/.rcc/qmlcache/Basics_qmlcache_loader.cpp.obj	95a53b057cb91c94
+35712	38132	7362396125795274	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_ArcItem_qml.cpp	ce7aa9aaa983377b
+83448	84435	7362396598349629	qml/QtQuick/Studio/EventSystem/EventListener.qml	1fd798a1e28bbf50
+12758	14563	7362395890391561	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/StraightArrow.qml	45e85f25c0fcbfcd
+29975	32690	7362396065385829	qml/QtQuick/Studio/Components/QuickStudioComponents.qmltypes	2346aaf4de79135e
+6704	14782	7362395882714038	_deps/ds-build/src/imports/components/QuickStudioComponentsplugin_autogen/timestamp	206a6f0d2f10fcb2
+16172	18081	7362395924528332	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/ColorizeItem.qml	e469ec233864fe5b
+6704	14782	7362395882714038	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/QuickStudioComponentsplugin_autogen/timestamp	206a6f0d2f10fcb2
+29483	31489	7362396062466754	content/CMakeFiles/contentplugin.dir/contentplugin_autogen/mocs_compilation.cpp.obj	ab920febead0110e
+6704	14782	7362395882714038	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/QuickStudioComponentsplugin_autogen/mocs_compilation.cpp	206a6f0d2f10fcb2
+16651	18560	7362395931628621	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin_init.dir/QuickStudioComponentsplugin_init_autogen/mocs_compilation.cpp.obj	810812372ecf2460
+12872	14909	7362395895110039	_deps/ds-build/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_qmlcache_loader.cpp	4b67b2c8f426131c
+12872	14909	7362395895110039	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_qmlcache_loader.cpp	4b67b2c8f426131c
+29975	32690	7362396065385829	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/quickstudiocomponents_qmltyperegistrations.cpp	2346aaf4de79135e
+40711	53150	7362396279392667	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_RectangleItem_qml.cpp.obj	65be94d0f8ac7a4f
+13046	15068	7362395896539564	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/.rcc/qrc_qmake_QtQuick_Studio_Utils.cpp	8f41864fde3b250f
+17963	19399	7362395942415146	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qrc_QuickStudioComponents_raw_qml_0.cpp	b82a205751beacd4
+64794	66008	7362396410510101	_deps/ds-build/src/imports/multitext/meta_types/QuickStudioMultiText_json_file_list.txt	2c070eb9bd4c2cda
+13486	15325	7362395898478963	_deps/ds-build/src/imports/utils/.rcc/qrc_QuickStudioUtils_raw_qml_0.cpp	fa74c86c6e4a905f
+65242	66626	7362396414718747	qml/QtQuick/Studio/EventSimulator/EventSimulator.qml	8b8bb1981276d5d3
+54938	57060	7362396310708925	qml/QtQuick/Studio/LogicHelper/BidirectionalBinding.qml	f886fdb5cfe8da06
+13486	15325	7362395898478963	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/.rcc/qrc_QuickStudioUtils_raw_qml_0.cpp	fa74c86c6e4a905f
+106663	106951	7362396827944761	qml/Basics/libBasicsplugin.a	7929441a2c26d689
+13639	15405	7362395899998454	_deps/ds-build/src/imports/utils/meta_types/QuickStudioUtils_json_file_list.txt.timestamp	a2bf94eef819cc6f
+82342	90409	7362396652612154	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystemplugin_init.dir/QuickStudioEventSystemplugin_init.cpp.obj	eb19dd3673c5b9a8
+64504	65718	7362396407780973	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/.rcc/qrc_QuickStudioMultiText_raw_qml_0.cpp	fc913b63d8d3d29
+13639	15405	7362395899998454	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/meta_types/QuickStudioUtils_json_file_list.txt	a2bf94eef819cc6f
+13639	15405	7362395899998454	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/meta_types/QuickStudioUtils_json_file_list.txt.timestamp	a2bf94eef819cc6f
+13881	15525	7362395901667921	qml/QtQuick/Studio/Components/ArcArrow.qml	3da08bc22bebec55
+13881	15525	7362395901667921	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Components/ArcArrow.qml	3da08bc22bebec55
+13985	15605	7362395907026189	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_1.dir/.rcc/qrc_qmake_QtQuick_Studio_Effects_init.cpp.obj	803b9081fb5a2d8d
+76683	88546	7362396639506389	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qmlcache/QuickStudioLogicHelper_qmlcache_loader.cpp.obj	4e55bd9d25e9931f
+14171	15715	7362395907396076	content/meta_types/qt6content_debug_metatypes.json.gen	c57605c154b7e343
+55285	59949	7362396332125357	_deps/ds-build/src/imports/flowview/FlowView_autogen/mocs_compilation.cpp	9429bb6133db052b
+99488	100521	7362396763456464	imports/Basics/CMakeFiles/Basics.dir/.rcc/qrc_Basics_raw_qml_0.cpp.obj	ded629fff0cc8c66
+14171	15715	7362395907396076	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/meta_types/qt6content_debug_metatypes.json.gen	c57605c154b7e343
+40244	41754	7362396175776027	qml/content/libcontentplugin.a	4496771d1be659d3
+14171	15715	7362395907396076	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/meta_types/qt6content_debug_metatypes.json	c57605c154b7e343
+14280	15815	7362395909105534	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects_resources_2.dir/.rcc/qrc_QuickStudioEffects_raw_qml_0_init.cpp.obj	792d612940060f28
+74373	76682	7362396512127382	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText.dir/QuickStudioMultiText_autogen/mocs_compilation.cpp.obj	460de1a8de723a2b
+14427	16008	7362395906846250	qml/QtQuick/Studio/Effects/RadialBlurItem.qml	deaf38e2e87b36b9
+31331	37680	7362396095606113	_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_init_autogen/mocs_compilation.cpp	9fe10c5a92bfc701
+14427	16008	7362395906846250	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/RadialBlurItem.qml	deaf38e2e87b36b9
+14563	16171	7362395908115847	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/MaskedBlurItem.qml	47b98d378f47c291
+54050	56482	7362396305730438	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/meta_types/QuickStudioEffects_json_file_list.txt	2a3f3a9c0910d6b8
+14783	16360	7362395909725328	qml/QtQuick/Studio/Effects/BrightnessContrastItem.qml	60a2a1d5ae00c70a
+14783	16360	7362395909725328	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/BrightnessContrastItem.qml	60a2a1d5ae00c70a
+15406	17297	7362395918920141	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/meta_types/qt6quickstudioutils_debug_metatypes.json.gen	7fa3f6c3c0be7514
+14909	16452	7362395911234841	qml/QtQuick/Studio/Effects/DropShadowItem.qml	b02bf01132c68c62
+53042	54264	7362396291568765	qml/FlowView/+DesignMode/FlowItem.qml	e31727f944209c55
+61936	69313	7362396437641391	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffectsplugin.dir/QuickStudioEffectsplugin_QtQuick_Studio_EffectsPlugin.cpp.obj	9b7d4741f7278a83
+14909	16452	7362395911234841	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/DropShadowItem.qml	b02bf01132c68c62
+56482	58156	7362396331735491	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/meta_types/qt6quickstudioeffects_debug_metatypes.json	1ba3348bacf66fa7
+12449	16650	7362395902347708	_deps/ds-build/src/imports/components/QuickStudioComponentsplugin_init_autogen/timestamp	784e0b6933781f08
+19399	20999	7362395959119771	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/HueSaturationEffect.qml	dade9caaf278383
+12449	16650	7362395902347708	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/QuickStudioComponentsplugin_init_autogen/timestamp	784e0b6933781f08
+12449	16650	7362395902347708	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/QuickStudioComponentsplugin_init_autogen/mocs_compilation.cpp	784e0b6933781f08
+15069	16777	7362395912254524	qml/QtQuick/Studio/Effects/ColorOverlayItem.qml	872dd8e71dec8b74
+41437	52915	7362396277653223	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_GroupItem_qml.cpp.obj	2d2dd398b8bf9a13
+15069	16777	7362395912254524	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/ColorOverlayItem.qml	872dd8e71dec8b74
+9727	16858	7362395907196140	content/CMakeFiles/contentplugin_init.dir/contentplugin_init.cpp.obj	56d996603cf7dc6c
+17166	18959	7362395932898241	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/ThresholdMaskItem.qml	256327bcd7513ef9
+89646	91236	7362396663968496	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/.rcc/qrc_QuickStudioEventSystem_raw_qml_0.cpp	467c81e6457556eb
+15224	17023	7362395913884000	qml/QtQuick/Studio/Effects/HueSaturationItem.qml	cf2ac8cc60be7d6b
+60359	61936	7362396368803535	_deps/ds-build/src/imports/flowview/meta_types/FlowView_json_file_list.txt	d46c356ee65d69fc
+15325	17165	7362395914283865	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/DirectionalBlurItem.qml	18dc66a4e3ab5e5f
+15406	17297	7362395918920141	_deps/ds-build/src/imports/utils/meta_types/qt6quickstudioutils_debug_metatypes.json.gen	7fa3f6c3c0be7514
+31831	32873	7362396081020795	qml/QtQuick/Studio/Effects/RecursiveBlurEffect.qml	bcf13c038ba39f46
+31490	35328	7362396077371959	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/OpacityMaskEffect.qml	9f4c0d0979ddaa2a
+15406	17297	7362395918920141	_deps/ds-build/src/imports/utils/meta_types/qt6quickstudioutils_debug_metatypes.json	7fa3f6c3c0be7514
+2364	3016	7362406479825065	content/CMakeFiles/content.dir/.rcc/qrc_qmake_content.cpp.obj	5c073a2918059af7
+35712	38132	7362396125795274	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_ArcItem_qml.cpp	ce7aa9aaa983377b
+15406	17297	7362395918920141	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/meta_types/qt6quickstudioutils_debug_metatypes.json	7fa3f6c3c0be7514
+108106	109011	7362396845569117	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/Main/BasicsApp.qmltypes	5bbe35ec01cdfcd1
+96390	97118	7362396725418715	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/Basics/Basics.qmltypes	6a1f1a1074a3efbb
+15526	17405	7362395926017861	_deps/ds-build/src/imports/components/QuickStudioComponents_autogen/timestamp	779521f632cd555
+59950	61715	7362396366004430	_deps/ds-build/src/imports/flowview/.rcc/qrc_FlowView_raw_qml_0.cpp	ff65e1db43255f2b
+15526	17405	7362395926017861	_deps/ds-build/src/imports/components/QuickStudioComponents_autogen/mocs_compilation.cpp	779521f632cd555
+15606	17491	7362395917083219	qml/QtQuick/Studio/Effects/SaturationItem.qml	c77ef0365b714377
+15526	17405	7362395926017861	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/QuickStudioComponents_autogen/timestamp	779521f632cd555
+97119	98080	7362396737804735	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/.rcc/qmlcache/Basics_EventListModel_qml.cpp	d2a3ac0693c5ca31
+66628	71560	7362396449427566	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulator_autogen/timestamp	2313e9ea35eea5c9
+15716	17629	7362395920269703	content/content_qmltyperegistrations.cpp	140e37092334b4e3
+15716	17629	7362395920269703	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/content_qmltyperegistrations.cpp	140e37092334b4e3
+63288	64893	7362396397424307	_deps/ds-build/src/imports/logichelper/.rcc/qrc_qmake_QtQuick_Studio_LogicHelper.cpp	28dfd103778f2523
+78810	79611	7362396553024222	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/QuickStudioLogicHelperplugin_autogen/mocs_compilation.cpp.obj	869c1dbb92370529
+15716	17629	7362395920269703	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/content.qmltypes	140e37092334b4e3
+18083	19622	7362395944364528	_deps/ds-build/src/imports/components/meta_types/QuickStudioComponents_json_file_list.txt	e0cb715efdd5102e
+53445	55058	7362396295587470	qml/FlowView/FlowDecision.qml	e834f22667fbfb52
+15817	17789	7362395919949824	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/OpacityMaskItem.qml	4489bda3f51de51d
+89393	91214	7362396662528965	_deps/ds-build/src/imports/tools/eventsystem/.rcc/qrc_qmake_QtQuick_Studio_EventSystem.cpp	6e9bf4809f9344da
+16009	17961	7362395921809208	qml/QtQuick/Studio/Effects/MaskItem.qml	d2100de1a70cebcf
+37229	39372	7362396136867869	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/InnerShadowEffect.qml	6a453dee8c3aff5e
+56601	58279	7362396330645971	qml/QtQuick/Studio/LogicHelper/NotOperator.qml	e4bf8452a375febd
+16009	17961	7362395921809208	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/MaskItem.qml	d2100de1a70cebcf
+16172	18081	7362395924528332	qml/QtQuick/Studio/Effects/ColorizeItem.qml	e469ec233864fe5b
+16361	18240	7362395924738271	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/BlendItem.qml	cc4ff4d9a9cf4775
+16452	18480	7362395926787623	qml/QtQuick/Studio/Effects/BrightnessContrastEffect.qml	6149a431012d05f4
+94888	95844	7362396714212322	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/.rcc/qmlcache/Basics_qmlcache_loader.cpp	6251f405b042c8b4
+34170	37041	7362396119827177	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_BorderItem_qml.cpp	7d7eb8b51c7194b2
+16859	18674	7362395931338714	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/GaussianBlurItem.qml	899b44a0f7a13d6c
+20561	22221	7362395966737322	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/FastBlurEffect.qml	48f8407a02fad2f1
+17024	18883	7362395931998520	qml/QtQuick/Studio/Effects/DisplaceItem.qml	2e438c86cd436895
+86092	89236	7362396643555069	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystem_autogen/timestamp	4a3682e76b8d3559
+17024	18883	7362395931998520	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/DisplaceItem.qml	2e438c86cd436895
+17166	18959	7362395932898241	qml/QtQuick/Studio/Effects/ThresholdMaskItem.qml	256327bcd7513ef9
+53445	55058	7362396295587470	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowDecision.qml	e834f22667fbfb52
+71946	74136	7362396485755864	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/MultiText/QuickStudioMultiText.qmltypes	9c61020b76b647d6
+65570	69592	7362396434932236	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulatorplugin_init_autogen/mocs_compilation.cpp	43e380ea454a33d6
+17298	19096	7362395935157488	_deps/ds-build/src/imports/utils/quickstudioutils_qmltyperegistrations.cpp	27009ad8aeb6cf77
+30679	32363	7362396072043670	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/DesaturationEffect.qml	80860cbb3fa2a0e6
+37681	39646	7362396141497061	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffectsplugin_init.dir/QuickStudioEffectsplugin_init_autogen/mocs_compilation.cpp.obj	203fd25405b9bed
+17405	19198	7362395935947236	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qrc_qmake_QtQuick_Studio_Components.cpp	ea39ddc8a74f5336
+67868	70979	7362396451816825	_deps/ds-build/src/imports/flowview/CMakeFiles/FlowView.dir/FlowView_autogen/mocs_compilation.cpp.obj	d6dbd9f87041f3f1
+52916	53658	7362396290499089	qml/FlowView/FlowWildcard.qml	cafac98b86867289
+20183	21863	7362395963588344	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/DisplaceEffect.qml	a6bffa899259eec7
+17492	19319	7362395937676676	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_qmlcache_loader.cpp	bc4d16ab45dc5a8
+58280	62315	7362396366644234	_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelper_autogen/mocs_compilation.cpp	1432ce22f56970fe
+17492	19319	7362395937676676	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_qmlcache_loader.cpp	bc4d16ab45dc5a8
+20678	22546	7362395968526740	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/GaussianBlurEffect.qml	dabca37fb79e7425
+52191	53733	7362396285410755	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowView.qml	83a6b86764c4adc7
+53357	57352	7362396307709890	_deps/ds-build/src/imports/flowview/FlowViewplugin_init_autogen/timestamp	477669db225979e8
+17963	19399	7362395942415146	_deps/ds-build/src/imports/components/.rcc/qrc_QuickStudioComponents_raw_qml_0.cpp	b82a205751beacd4
+20086	21517	7362395962338760	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/ColorOverlayEffect.qml	e936d7710f4b939e
+18083	19622	7362395944364528	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/meta_types/QuickStudioComponents_json_file_list.txt	e0cb715efdd5102e
+51072	52638	7362396275104063	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowPushEffect.qml	5156c97db4760cd6
+18083	19622	7362395944364528	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/meta_types/QuickStudioComponents_json_file_list.txt.timestamp	e0cb715efdd5102e
+31490	35328	7362396077371959	qml/QtQuick/Studio/Effects/OpacityMaskEffect.qml	9f4c0d0979ddaa2a
+88166	89234	7362396644494778	qml/Basics/Constants.qml	f4a425751fafc407
+18241	19782	7362395945514147	qml/QtQuick/Studio/Effects/RotationItem.qml	b61704ac2092e6e2
+35329	37708	7362396121566648	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_IsoItem_qml.cpp	540725744ed7815
+60873	63287	7362396378680351	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects.dir/.rcc/qrc_qmake_QtQuick_Studio_Effects.cpp.obj	137c4712ee08baa5
+18241	19782	7362395945514147	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/RotationItem.qml	b61704ac2092e6e2
+56185	57991	7362396324718198	qml/QtQuick/Studio/LogicHelper/AndOperator.qml	91ff2337507bee43
+18481	20085	7362395947663460	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/InnerShadowItem.qml	44b0b6e66501c80e
+18561	20182	7362395947483532	qml/QtQuick/Studio/Effects/RecursiveBlurItem.qml	f9c7ce3e8128ae6a
+39035	40944	7362396152733464	qml/FlowView/FlowMoveEffect.qml	fee156f0ac3bd284
+18561	20182	7362395947483532	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/RecursiveBlurItem.qml	f9c7ce3e8128ae6a
+20183	21863	7362395963588344	qml/QtQuick/Studio/Effects/DisplaceEffect.qml	a6bffa899259eec7
+43927	55190	7362396292458493	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_BorderItem_qml.cpp.obj	92da6da8f18d022e
+18675	20328	7362395948993049	qml/QtQuick/Studio/Effects/LevelAdjustItem.qml	8cd9b2332d32c9dd
+107061	107565	7362396833332968	.rcc/qrc_qmake_Main.cpp	d76759a91cbe9dab
+69851	74322	7362396476978697	_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_AndOperator_qml.cpp	fa8ebce36caeb0fa
+36193	38518	7362396130553729	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_RectangleItem_qml.cpp	2a498ff47dd7620
+36588	38816	7362396134688560	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_ArcArrow_qml.cpp	2983bf175ccc5c89
+18884	20419	7362395949872753	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/BlendEffect.qml	b5c0139703d3add8
+18960	20560	7362395951892109	qml/QtQuick/Studio/Effects/GammaAdjustItem.qml	5060ac9cd8083a60
+18960	20560	7362395951892109	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/GammaAdjustItem.qml	5060ac9cd8083a60
+60359	61936	7362396368803535	_deps/ds-build/src/imports/flowview/meta_types/FlowView_json_file_list.txt.timestamp	d46c356ee65d69fc
+19097	20678	7362395955990776	_deps/ds-build/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_ChildListModel_qml.cpp	2b96c9d3472b29f7
+107760	108105	7362396839441089	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6basicsapp_debug_metatypes.json	126691a2658fc93c
+19097	20678	7362395955990776	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_ChildListModel_qml.cpp	2b96c9d3472b29f7
+1493	2168	7362406471457058	content/.rcc/qmlcache/content_Bapp_qml.cpp	87cd53be95df2b3e
+31331	37680	7362396095606113	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_init_autogen/timestamp	9fe10c5a92bfc701
+19320	20857	7362395960739251	_deps/ds-build/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonListModel_qml.cpp	11d2a7593f641794
+62152	64314	7362396391586202	_deps/ds-build/src/imports/flowview/meta_types/qt6flowview_debug_metatypes.json.gen	f131a10cc8fc2e20
+19320	20857	7362395960739251	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/utils/.rcc/qmlcache/QuickStudioUtils_JsonListModel_qml.cpp	11d2a7593f641794
+63759	64628	7362396401992865	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/meta_types/QuickStudioLogicHelper_json_file_list.txt.timestamp	707557d23b364310
+19399	20999	7362395959119771	qml/QtQuick/Studio/Effects/HueSaturationEffect.qml	dade9caaf278383
+48765	49717	7362396252351388	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponentsplugin.dir/QuickStudioComponentsplugin_autogen/mocs_compilation.cpp.obj	4d92ae8690efc540
+17630	21060	7362395953501581	content/.rcc/qmlcache/content_App_qml.cpp	1c4dd05bc37bdf5b
+17630	21060	7362395953501581	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_App_qml.cpp	1c4dd05bc37bdf5b
+38132	39911	7362396142996600	qml/FlowView/DefaultFlowEffect.qml	d69dc9627158be8d
+19623	21203	7362395962678637	_deps/ds-build/src/imports/components/meta_types/qt6quickstudiocomponents_debug_metatypes.json.gen	5deb48593e34ab02
+19623	21203	7362395962678637	_deps/ds-build/src/imports/components/meta_types/qt6quickstudiocomponents_debug_metatypes.json	5deb48593e34ab02
+1640	2228	7362406472056863	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+63759	64628	7362396401992865	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/meta_types/QuickStudioLogicHelper_json_file_list.txt	707557d23b364310
+1640	2228	7362406472056863	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+73389	75541	7362396495632696	_deps/ds-build/src/imports/tools/eventsimulator/.rcc/qrc_qmake_QtQuick_Studio_EventSimulator.cpp	644f5b096b378b9a
+19784	21435	7362395962118810	qml/QtQuick/Studio/Effects/ColorizeEffect.qml	33eb9fc22f8e6177
+80763	82127	7362396577726267	_deps/ds-build/src/imports/tools/eventsimulator/meta_types/qt6quickstudioeventsimulator_debug_metatypes.json	a9c7d7dc16dba4c5
+73575	75800	7362396500131264	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/meta_types/QuickStudioEventSimulator_json_file_list.txt.timestamp	180db4eeff5e79dc
+19784	21435	7362395962118810	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/ColorizeEffect.qml	33eb9fc22f8e6177
+40945	50050	7362396254280753	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_FlipableItem_qml.cpp.obj	6ce0da7b08751abf
+20086	21517	7362395962338760	qml/QtQuick/Studio/Effects/ColorOverlayEffect.qml	e936d7710f4b939e
+56482	58156	7362396331735491	_deps/ds-build/src/imports/effects_qt6/meta_types/qt6quickstudioeffects_debug_metatypes.json	1ba3348bacf66fa7
+20329	21896	7362395964608020	qml/QtQuick/Studio/Effects/DropShadowEffect.qml	3a4aa944538fc64e
+54050	56482	7362396305730438	_deps/ds-build/src/imports/effects_qt6/meta_types/QuickStudioEffects_json_file_list.txt	2a3f3a9c0910d6b8
+20420	22186	7362395965787649	qml/QtQuick/Studio/Effects/DirectionalBlurEffect.qml	41aaec73fe75c463
+20420	22186	7362395965787649	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/DirectionalBlurEffect.qml	41aaec73fe75c463
+20561	22221	7362395966737322	qml/QtQuick/Studio/Effects/FastBlurEffect.qml	48f8407a02fad2f1
+20772	22968	7362395968806665	qml/QtQuick/Studio/Effects/GammaAdjustEffect.qml	8efdfc26907d8c2f
+20772	22968	7362395968806665	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/GammaAdjustEffect.qml	8efdfc26907d8c2f
+40603	49466	7362396250811876	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_EllipseItem_qml.cpp.obj	db2f4ddfff543926
+21061	23018	7362395976854067	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/.rcc/qrc_qmake_QtQuick_Studio_Utils.cpp.obj	c69ea57ba9897a4d
+69592	73574	7362396472580140	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_StringMapper_qml.cpp	c761f81070fe9919
+22188	23508	7362395991239685	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/.rcc/qrc_QuickStudioUtils_raw_qml_0.cpp.obj	23846f5d19723184
+22223	23999	7362395995318376	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin.dir/QuickStudioUtilsplugin_autogen/mocs_compilation.cpp.obj	525fa1f11d574e56
+70980	74612	7362396485256034	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_NotOperator_qml.cpp	7d0c27f11f46eb39
+23416	24963	7362396005095228	content/CMakeFiles/content.dir/content_autogen/mocs_compilation.cpp.obj	aec1ba8af95e4480
+60606	62815	7362396377480743	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects.dir/QuickStudioEffects_autogen/mocs_compilation.cpp.obj	efd36d208696d1fe
+91053	92635	7362396681822745	qml/QtQuick/Studio/LogicHelper/libQuickStudioLogicHelperplugin.a	1f5cf632999eb62b
+2503	3037	7362406480184967	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+21257	29480	7362396051230383	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/.rcc/qmlcache/QuickStudioUtils_JsonListModel_qml.cpp.obj	68540241c5968fde
+51072	52638	7362396275104063	qml/FlowView/FlowPushEffect.qml	5156c97db4760cd6
+31331	37680	7362396095606113	_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_init_autogen/timestamp	9fe10c5a92bfc701
+50051	51071	7362396264927334	qml/FlowView/FlowTransition.qml	68adb05a3770b629
+55059	57132	7362396320562934	imports/Basics/CMakeFiles/Basics_resources_2.dir/.rcc/qrc_Basics_raw_qml_0_init.cpp.obj	ff5339014014279
+21204	29973	7362396055259074	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/.rcc/qmlcache/QuickStudioUtils_qmlcache_loader.cpp.obj	ef544ce28dd293fa
+53572	55284	7362396296727096	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/qmldir	583fa0ca0b823d42
+55285	59949	7362396332125357	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/FlowView_autogen/mocs_compilation.cpp	9429bb6133db052b
+21865	30279	7362396057788259	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/.rcc/qmlcache/QuickStudioUtils_ChildListModel_qml.cpp.obj	2157db4aab61faa4
+63759	64628	7362396401992865	_deps/ds-build/src/imports/logichelper/meta_types/QuickStudioLogicHelper_json_file_list.txt	707557d23b364310
+22547	31000	7362396061047216	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtilsplugin.dir/QuickStudioUtilsplugin_QtQuick_Studio_UtilsPlugin.cpp.obj	9bd22c926e40dea5
+21897	31330	7362396062186842	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/.rcc/qmlcache/QuickStudioUtils_JsonBackend_qml.cpp.obj	969085c98e4811d3
+51687	53355	7362396280932170	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowPushRightEffect.qml	6e139a85ea9c48f0
+1086	1559	7362407555839002	.rcc/qmlcache/BasicsApp_main_qml.cpp	7bcc162a5698c49b
+30280	31830	7362396068584791	qml/QtQuick/Studio/Effects/GlowEffect.qml	86159da4c395bde
+38519	40556	7362396147145316	qml/FlowView/SwipeInteraction.qml	2237db2918084154
+58157	60605	7362396344021528	qml/QtQuick/Studio/Effects/QuickStudioEffects.qmltypes	7b442ccbcf78339c
+74033	77641	7362396519724933	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_init_autogen/mocs_compilation.cpp	22d245875ac851e9
+30280	31830	7362396068584791	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/GlowEffect.qml	86159da4c395bde
+21001	31975	7362396070444195	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/quickstudiocsvtablemodel.cpp.obj	ff2862a105dca6ff
+21518	32114	7362396071043995	_deps/ds-build/src/imports/utils/CMakeFiles/QuickStudioUtils.dir/quickstudioutils_qmltyperegistrations.cpp.obj	3e57d7d3a7c7e693
+99996	105683	7362396815199803	imports/Basics/CMakeFiles/Basics.dir/.rcc/qmlcache/Basics_EventListSimulator_qml.cpp.obj	93ecd0544618d959
+38016	43421	7362396185352948	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/FlowViewplugin_autogen/mocs_compilation.cpp	46f8b2595dc09226
+49719	54049	7362396283681291	_deps/ds-build/src/imports/effects_qt6/QuickStudioEffects_autogen/mocs_compilation.cpp	2a956843604c9451
+79431	88377	7362396634717912	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin.dir/QuickStudioMultiTextplugin_QtQuick_Studio_MultiTextPlugin.cpp.obj	cad4369a22095663
+30679	32363	7362396072043670	qml/QtQuick/Studio/Effects/DesaturationEffect.qml	80860cbb3fa2a0e6
+31694	32500	7362396078831489	qml/QtQuick/Studio/Effects/ZoomBlurEffect.qml	5f678c409e395b0b
+31694	32500	7362396078831489	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/ZoomBlurEffect.qml	5f678c409e395b0b
+35329	37708	7362396121566648	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_IsoItem_qml.cpp	540725744ed7815
+29975	32690	7362396065385829	_deps/ds-build/src/imports/components/quickstudiocomponents_qmltyperegistrations.cpp	2346aaf4de79135e
+31831	32873	7362396081020795	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/RecursiveBlurEffect.qml	bcf13c038ba39f46
+31002	33696	7362396075052699	qml/QtQuick/Studio/Effects/RadialBlurEffect.qml	a929b72051e5024a
+31002	33696	7362396075052699	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/RadialBlurEffect.qml	a929b72051e5024a
+31976	34168	7362396082300379	qml/QtQuick/Studio/Effects/ThresholdMaskEffect.qml	55810195573fd3fe
+74323	76584	7362396511607548	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText.dir/.rcc/qrc_qmake_QtQuick_Studio_MultiText.cpp.obj	33b5d415dff1ee1d
+32365	35569	7362396085909210	qml/QtQuick/Studio/Effects/MaskedBlurEffect.qml	b388a37fe161e3ae
+32365	35569	7362396085909210	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/MaskedBlurEffect.qml	b388a37fe161e3ae
+94888	95844	7362396714212322	imports/Basics/.rcc/qmlcache/Basics_qmlcache_loader.cpp	6251f405b042c8b4
+32502	35711	7362396087548676	qml/QtQuick/Studio/Effects/LevelAdjustEffect.qml	8132f293ac8d1752
+53357	57352	7362396307709890	_deps/ds-build/src/imports/flowview/FlowViewplugin_init_autogen/mocs_compilation.cpp	477669db225979e8
+59570	64191	7362396384218572	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/QuickStudioMultiText_autogen/timestamp	a64e08cb0c6beedf
+32502	35711	7362396087548676	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/LevelAdjustEffect.qml	8132f293ac8d1752
+106999	107651	7362396833512899	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/BasicsApp_qmlcache_loader.cpp	28c946f20b44e359
+62542	65036	7362396398374027	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin_init.dir/QuickStudioLogicHelperplugin_init_autogen/mocs_compilation.cpp.obj	bd93963c023fd066
+22969	35971	7362396081730555	content/CMakeFiles/content.dir/content_qmltyperegistrations.cpp.obj	d6908946d493e652
+50616	51686	7362396268816081	qml/FlowView/FlowSlideUpEffect.qml	b446093802f78f1a
+32691	36193	7362396106292950	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_FlipableItem_qml.cpp	1fcacf70a67ebb50
+861	1085	7362407545525735	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/BasicsApp_json_file_list.txt	540d17b46588c85c
+32691	36193	7362396106292950	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_FlipableItem_qml.cpp	1fcacf70a67ebb50
+32874	36428	7362396114261338	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_PieItem_qml.cpp	f09d6e3d96b1e67a
+97458	98363	7362396741773446	imports/Basics/.rcc/qmlcache/Basics_EventListSimulator_qml.cpp	ea3d141a1cf56dce
+33697	36587	7362396114651219	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_SvgPathItem_qml.cpp	d0ac9aa9e831f1df
+33697	36587	7362396114651219	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_SvgPathItem_qml.cpp	d0ac9aa9e831f1df
+57061	58524	7362396338403332	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_resources_2.dir/.rcc/qrc_QuickStudioMultiText_raw_qml_0_init.cpp.obj	67097c9b59807d37
+34170	37041	7362396119827177	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_BorderItem_qml.cpp	7d7eb8b51c7194b2
+2281	7076	7362406520741896	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+26065	37460	7362396099434852	content/CMakeFiles/contentplugin.dir/contentplugin_contentPlugin.cpp.obj	cee198aae3c02a03
+83931	91806	7362396673675388	_deps/ds-build/src/imports/application/CMakeFiles/QuickStudioApplication.dir/quickstudioapplication_qmltyperegistrations.cpp.obj	1ed1bb8f4b9cabb5
+63759	64628	7362396401992865	_deps/ds-build/src/imports/logichelper/meta_types/QuickStudioLogicHelper_json_file_list.txt.timestamp	707557d23b364310
+31331	37680	7362396095606113	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffectsplugin_init_autogen/mocs_compilation.cpp	9fe10c5a92bfc701
+32115	37791	7362396113341627	_deps/ds-build/src/imports/utils/libQuickStudioUtils.a	b3f52f55a90e282d
+53151	54767	7362396292588458	qml/FlowView/FlowItem.qml	38bd3c39686303e9
+58280	62315	7362396366644234	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelper_autogen/timestamp	1432ce22f56970fe
+35570	38015	7362396123635953	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_TriangleItem_qml.cpp	168a11ac58e09d85
+2305	7567	7362406525550352	content/CMakeFiles/content.dir/.rcc/qmlcache/content_qmlcache_loader.cpp.obj	3c6f6ecd242d9643
+35972	38398	7362396128684363	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_EllipseItem_qml.cpp	221b2b768d9d4fff
+38016	43421	7362396185352948	_deps/ds-build/src/imports/flowview/FlowViewplugin_autogen/mocs_compilation.cpp	46f8b2595dc09226
+64629	65831	7362396412839354	_deps/ds-build/src/imports/logichelper/meta_types/qt6quickstudiologichelper_debug_metatypes.json.gen	45ae9bbf519578a5
+36193	38518	7362396130553729	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_RectangleItem_qml.cpp	2a498ff47dd7620
+66976	75129	7362396481157354	_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_autogen/timestamp	d916624fde8b4a9
+36428	38649	7362396131963273	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_RegularPolygonItem_qml.cpp	36365a871def6022
+50376	51356	7362396267506504	qml/FlowView/FlowPushUpEffect.qml	b75b3562bfb68922
+36588	38816	7362396134688560	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_ArcArrow_qml.cpp	2983bf175ccc5c89
+36889	39034	7362396136388025	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_StraightArrow_qml.cpp	4bdaf2b5357e3a56
+53572	55284	7362396296727096	qml/FlowView/qmldir	583fa0ca0b823d42
+54483	56761	7362396308519639	_deps/ds-build/src/imports/effects_qt6/.rcc/qrc_QuickStudioEffects_raw_qml_0.cpp	209d2c68dd8b1309
+37042	39154	7362396138767954	_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_GroupItem_qml.cpp	e47d46ad29c65c37
+37042	39154	7362396138767954	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmlcache/QuickStudioComponents_GroupItem_qml.cpp	e47d46ad29c65c37
+37229	39372	7362396136867869	qml/QtQuick/Studio/Effects/InnerShadowEffect.qml	6a453dee8c3aff5e
+37461	39455	7362396142036899	_deps/ds-build/src/imports/flowview/CMakeFiles/FlowView_resources_1.dir/.rcc/qrc_FlowView_raw_qml_0_init.cpp.obj	1de4fc94cc935c9b
+37791	39837	7362396148814716	qml/QtQuick/Studio/Utils/libQuickStudioUtilsplugin.a	6f96823c34636c11
+38132	39911	7362396142996600	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/DefaultFlowEffect.qml	d69dc9627158be8d
+51357	53041	7362396278343016	qml/FlowView/FlowSlideRightEffect.qml	39866ce51f4fa268
+59220	61356	7362396357907039	qml/QtQuick/Studio/EventSimulator/EventSimulatorDelegate.qml	8d3556b008854f30
+38649	40602	7362396149164595	qml/FlowView/FlowFadeEffect.qml	c230cb8623283efd
+7567	8295	7362406533038021	content/libcontent.a	94fa08fc917c441
+38399	40413	7362396145485789	qml/FlowView/FlowEffect.qml	d92549e7aa923f3
+38519	40556	7362396147145316	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/SwipeInteraction.qml	2237db2918084154
+38649	40602	7362396149164595	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowFadeEffect.qml	c230cb8623283efd
+38816	40710	7362396151573815	qml/FlowView/FlowPushLeftEffect.qml	cf938c4cc00e5ed1
+38816	40710	7362396151573815	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowPushLeftEffect.qml	cf938c4cc00e5ed1
+39035	40944	7362396152733464	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowMoveEffect.qml	fee156f0ac3bd284
+39155	41015	7362396158671551	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/QuickStudioComponents_autogen/mocs_compilation.cpp.obj	7d7c22fd8ac45598
+63489	65241	7362396399243728	_deps/ds-build/src/imports/logichelper/.rcc/qrc_QuickStudioLogicHelper_raw_qml_0.cpp	583f90e226e6d65b
+62152	64314	7362396391586202	_deps/ds-build/src/imports/flowview/meta_types/qt6flowview_debug_metatypes.json	f131a10cc8fc2e20
+39456	41435	7362396162800228	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qrc_qmake_QtQuick_Studio_Components.cpp.obj	48282925a0ff4e8d
+39374	46898	7362396225589995	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/quickstudiocomponents_qmltyperegistrations.cpp.obj	9ac7b68a6781ce6
+38016	43421	7362396185352948	_deps/ds-build/src/imports/flowview/FlowViewplugin_autogen/timestamp	46f8b2595dc09226
+54265	56601	7362396307859845	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/.rcc/qrc_qmake_QtQuick_Studio_Effects.cpp	84032afc0d537e26
+38016	43421	7362396185352948	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/FlowViewplugin_autogen/timestamp	46f8b2595dc09226
+37708	43925	7362396195909551	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffectsplugin_init.dir/QuickStudioEffectsplugin_init.cpp.obj	aed071bdb70694cf
+39912	50374	7362396254340738	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_ArcItem_qml.cpp.obj	f97ccc4edb4e2f
+39647	50614	7362396255440383	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_PieItem_qml.cpp.obj	cfd11f5551e4a057
+49468	50837	7362396264877341	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qrc_QuickStudioComponents_raw_qml_0.cpp.obj	bfcaff41823f467f
+54768	62152	7362396357647129	_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelperplugin_autogen/timestamp	594dc83b1159ba72
+50051	51071	7362396264927334	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowTransition.qml	68adb05a3770b629
+41017	51920	7362396270105656	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_SvgPathItem_qml.cpp.obj	752caa78d53915cb
+95053	95866	7362396715371948	imports/Basics/meta_types/Basics_json_file_list.txt	116c39bddab05307
+40557	52190	7362396273404586	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_TriangleItem_qml.cpp.obj	c913ce135bc9629
+50838	52487	7362396274964105	qml/FlowView/FlowSlideDownEffect.qml	958df7064de9a6db
+50838	52487	7362396274964105	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowSlideDownEffect.qml	958df7064de9a6db
+61716	63488	7362396386927700	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffectsplugin.dir/QuickStudioEffectsplugin_autogen/mocs_compilation.cpp.obj	5f8a277747621965
+41754	52757	7362396276333653	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_StraightArrow_qml.cpp.obj	d9b92ee8c7d3526a
+51357	53041	7362396278343016	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowSlideRightEffect.qml	39866ce51f4fa268
+52639	53255	7362396288149844	qml/FlowView/FlowState.qml	2dd2f4ece44b2482
+69314	72667	7362396467631728	_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_MinMaxMapper_qml.cpp	ebddc7bca4149382
+52639	53255	7362396288149844	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowState.qml	2dd2f4ece44b2482
+52758	53445	7362396289429457	qml/FlowView/FlowActionArea.qml	322222a514608cd9
+83626	85020	7362396605347368	_deps/ds-build/src/imports/application/CMakeFiles/QuickStudioApplication.dir/.rcc/qrc_qmake_QtQuick_Studio_Application.cpp.obj	657da28fc04f2767
+52758	53445	7362396289429457	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowActionArea.qml	322222a514608cd9
+51922	53571	7362396283911227	qml/FlowView/FlowSlideLeftEffect.qml	a5d3c134eb6419bb
+51922	53571	7362396283911227	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowSlideLeftEffect.qml	a5d3c134eb6419bb
+52916	53658	7362396290499089	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowWildcard.qml	cafac98b86867289
+52191	53733	7362396285410755	qml/FlowView/FlowView.qml	83a6b86764c4adc7
+64504	65718	7362396407780973	_deps/ds-build/src/imports/multitext/.rcc/qrc_QuickStudioMultiText_raw_qml_0.cpp	fc913b63d8d3d29
+43422	53830	7362396285890599	_deps/ds-build/src/imports/components/CMakeFiles/QuickStudioComponents.dir/.rcc/qmlcache/QuickStudioComponents_ArcArrow_qml.cpp.obj	c97a098fbffd4ae6
+49719	54049	7362396283681291	_deps/ds-build/src/imports/effects_qt6/QuickStudioEffects_autogen/timestamp	2a956843604c9451
+49719	54049	7362396283681291	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/QuickStudioEffects_autogen/timestamp	2a956843604c9451
+53042	54264	7362396291568765	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/+DesignMode/FlowItem.qml	e31727f944209c55
+52488	54482	7362396286660342	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowTransitionList.qml	4f65c45e1eae26e2
+53151	54767	7362396292588458	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowItem.qml	38bd3c39686303e9
+53256	54936	7362396293838018	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/+DesignMode/FlowView.qml	6ef9b5f3015eaae9
+53734	55679	7362396303677425	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper_resources_2.dir/.rcc/qrc_QuickStudioLogicHelper_raw_qml_0_init.cpp.obj	974a5867e51a82fb
+53832	56185	7362396302977648	qml/QtQuick/Studio/LogicHelper/RangeMapper.qml	5fa06e2292e260d1
+53832	56185	7362396302977648	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/LogicHelper/RangeMapper.qml	5fa06e2292e260d1
+54050	56482	7362396305730438	_deps/ds-build/src/imports/effects_qt6/meta_types/QuickStudioEffects_json_file_list.txt.timestamp	2a3f3a9c0910d6b8
+54265	56601	7362396307859845	_deps/ds-build/src/imports/effects_qt6/.rcc/qrc_qmake_QtQuick_Studio_Effects.cpp	84032afc0d537e26
+54938	57060	7362396310708925	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/LogicHelper/BidirectionalBinding.qml	f886fdb5cfe8da06
+53357	57352	7362396307709890	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/FlowViewplugin_init_autogen/timestamp	477669db225979e8
+53357	57352	7362396307709890	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/FlowViewplugin_init_autogen/mocs_compilation.cpp	477669db225979e8
+55510	57528	7362396316368876	qml/QtQuick/Studio/LogicHelper/OrOperator.qml	821cfc2d4eca135b
+55510	57528	7362396316368876	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/LogicHelper/OrOperator.qml	821cfc2d4eca135b
+88548	91052	7362396657440611	_deps/ds-build/src/imports/logichelper/libQuickStudioLogicHelper.a	c397c17c083e5f2
+55680	57808	7362396321752527	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/LogicHelper/StringMapper.qml	3a8cb37a01eb5845
+74033	77641	7362396519724933	_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_init_autogen/timestamp	22d245875ac851e9
+57134	58687	7362396335364316	qml/QtQuick/Studio/MultiText/MultiTextException.qml	ee2db977f223e595
+5782	10982	7362407649731692	BasicsApp.exe	b2b919dcbe610159
+56185	57991	7362396324718198	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/LogicHelper/AndOperator.qml	91ff2337507bee43
+56762	58386	7362396338203395	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText_resources_1.dir/.rcc/qrc_qmake_QtQuick_Studio_MultiText_init.cpp.obj	f1f5ab5c83bf426a
+57809	59219	7362396341522337	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/MultiText/MultiTextElement.qml	4505451ab81271cd
+57134	58687	7362396335364316	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/MultiText/MultiTextException.qml	ee2db977f223e595
+64893	66283	7362396411339830	_deps/ds-build/src/imports/multitext/.rcc/qrc_qmake_QtQuick_Studio_MultiText.cpp	a0bf992983e234f6
+65038	72576	7362396453696198	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulatorplugin_autogen/mocs_compilation.cpp	6f9399217c3555de
+57529	59006	7362396342472024	_deps/ds-build/src/imports/flowview/CMakeFiles/FlowViewplugin_init.dir/FlowViewplugin_init_autogen/mocs_compilation.cpp.obj	7b1d7e4c2abaebe9
+57993	59568	7362396341752232	qml/QtQuick/Studio/MultiText/MultiTextItem.qml	f35c311f124a2bf4
+83972	85303	7362396606067140	_deps/ds-build/src/imports/application/CMakeFiles/QuickStudioApplicationplugin.dir/QuickStudioApplicationplugin_autogen/mocs_compilation.cpp.obj	260a54a13c82ebe3
+57353	63758	7362396387027668	_deps/ds-build/src/imports/flowview/CMakeFiles/FlowViewplugin_init.dir/FlowViewplugin_init.cpp.obj	fe7f9ee102de4062
+57993	59568	7362396341752232	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/MultiText/MultiTextItem.qml	f35c311f124a2bf4
+55285	59949	7362396332125357	_deps/ds-build/src/imports/flowview/FlowView_autogen/timestamp	9429bb6133db052b
+59570	64191	7362396384218572	_deps/ds-build/src/imports/multitext/QuickStudioMultiText_autogen/mocs_compilation.cpp	a64e08cb0c6beedf
+55285	59949	7362396332125357	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/FlowView_autogen/timestamp	9429bb6133db052b
+98866	100220	7362396755219113	imports/Basics/CMakeFiles/Basics.dir/.rcc/qrc_qmake_Basics.cpp.obj	fbc89fb2b7f90805
+55191	60358	7362396331865441	_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelperplugin_init_autogen/timestamp	98e4ca91226049af
+55191	60358	7362396331865441	_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelperplugin_init_autogen/mocs_compilation.cpp	98e4ca91226049af
+55191	60358	7362396331865441	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelperplugin_init_autogen/mocs_compilation.cpp	98e4ca91226049af
+109531	110799	7362396861543985	CMakeFiles/BasicsApp.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_configuration.cpp.obj	ca84ad46069e8918
+58157	60605	7362396344021528	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/effects_qt6/quickstudioeffects_qmltyperegistrations.cpp	7b442ccbcf78339c
+58157	60605	7362396344021528	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/Effects/QuickStudioEffects.qmltypes	7b442ccbcf78339c
+58689	60871	7362396359456535	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulator_resources_1.dir/.rcc/qrc_qmake_QtQuick_Studio_EventSimulator_init.cpp.obj	69354f819ec0714a
+59007	61106	7362396361945758	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulator_resources_2.dir/.rcc/qrc_QuickStudioEventSimulator_raw_qml_0_init.cpp.obj	8fd1bbee7949a6b9
+59220	61356	7362396357907039	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/EventSimulator/EventSimulatorDelegate.qml	8d3556b008854f30
+60359	61936	7362396368803535	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/meta_types/FlowView_json_file_list.txt	d46c356ee65d69fc
+54768	62152	7362396357647129	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelperplugin_autogen/timestamp	594dc83b1159ba72
+76020	85438	7362396608446376	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qmlcache/QuickStudioLogicHelper_OrOperator_qml.cpp.obj	38ce3d970073b12d
+54768	62152	7362396357647129	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelperplugin_autogen/mocs_compilation.cpp	594dc83b1159ba72
+66628	71560	7362396449427566	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulator_autogen/mocs_compilation.cpp	2313e9ea35eea5c9
+58280	62315	7362396366644234	_deps/ds-build/src/imports/logichelper/QuickStudioLogicHelper_autogen/timestamp	1432ce22f56970fe
+58525	62542	7362396369783213	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_init_autogen/timestamp	a7df7cf28a071e44
+58525	62542	7362396369783213	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_init_autogen/mocs_compilation.cpp	a7df7cf28a071e44
+61357	64031	7362396389246949	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects.dir/.rcc/qrc_QuickStudioEffects_raw_qml_0.cpp.obj	ba55915c40438ab9
+97458	98363	7362396741773446	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/.rcc/qmlcache/Basics_EventListSimulator_qml.cpp	ea3d141a1cf56dce
+59570	64191	7362396384218572	_deps/ds-build/src/imports/multitext/QuickStudioMultiText_autogen/timestamp	a64e08cb0c6beedf
+62152	64314	7362396391586202	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/meta_types/qt6flowview_debug_metatypes.json.gen	f131a10cc8fc2e20
+62152	64314	7362396391586202	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/meta_types/qt6flowview_debug_metatypes.json	f131a10cc8fc2e20
+62817	64793	7362396395764869	_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_qmlcache_loader.cpp	478ba6a753a372e9
+62817	64793	7362396395764869	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_qmlcache_loader.cpp	478ba6a753a372e9
+83448	84435	7362396598349629	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/EventSystem/EventListener.qml	1fd798a1e28bbf50
+63288	64893	7362396397424307	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qrc_qmake_QtQuick_Studio_LogicHelper.cpp	28dfd103778f2523
+58387	65569	7362396396344657	_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_autogen/mocs_compilation.cpp	4f97e20663e4621f
+66628	71560	7362396449427566	_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulator_autogen/mocs_compilation.cpp	2313e9ea35eea5c9
+58387	65569	7362396396344657	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_autogen/timestamp	4f97e20663e4621f
+58387	65569	7362396396344657	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_autogen/mocs_compilation.cpp	4f97e20663e4621f
+64629	65831	7362396412839354	_deps/ds-build/src/imports/logichelper/meta_types/qt6quickstudiologichelper_debug_metatypes.json	45ae9bbf519578a5
+64629	65831	7362396412839354	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/meta_types/qt6quickstudiologichelper_debug_metatypes.json.gen	45ae9bbf519578a5
+64629	65831	7362396412839354	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/meta_types/qt6quickstudiologichelper_debug_metatypes.json	45ae9bbf519578a5
+64794	66008	7362396410510101	_deps/ds-build/src/imports/multitext/meta_types/QuickStudioMultiText_json_file_list.txt.timestamp	2c070eb9bd4c2cda
+64794	66008	7362396410510101	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/meta_types/QuickStudioMultiText_json_file_list.txt.timestamp	2c070eb9bd4c2cda
+64893	66283	7362396411339830	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/.rcc/qrc_qmake_QtQuick_Studio_MultiText.cpp	a0bf992983e234f6
+64033	66467	7362396406621348	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_init.dir/QuickStudioMultiTextplugin_init_autogen/mocs_compilation.cpp.obj	62c60a6fbfda1476
+65242	66626	7362396414718747	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/EventSimulator/EventSimulator.qml	8b8bb1981276d5d3
+64315	67383	7362396406491390	_deps/ds-build/src/imports/flowview/flowview_qmltyperegistrations.cpp	3bf1037d254d8419
+66976	75129	7362396481157354	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_autogen/timestamp	d916624fde8b4a9
+64315	67383	7362396406491390	qml/FlowView/FlowView.qmltypes	3bf1037d254d8419
+64315	67383	7362396406491390	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/flowview/flowview_qmltyperegistrations.cpp	3bf1037d254d8419
+64315	67383	7362396406491390	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/FlowView/FlowView.qmltypes	3bf1037d254d8419
+66468	67661	7362396430053807	qml/QtQuick/Studio/EventSystem/EventSystem.qml	d8ee35a5babbb01f
+84279	85557	7362396611005551	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulator.dir/QuickStudioEventSimulator_autogen/mocs_compilation.cpp.obj	dd19dc64ec54dde2
+66468	67661	7362396430053807	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/EventSystem/EventSystem.qml	d8ee35a5babbb01f
+97251	98156	7362396739334231	imports/Basics/.rcc/qmlcache/Basics_Constants_qml.cpp	8619dc0f8f96350e
+66009	67868	7362396431713299	_deps/ds-build/src/imports/multitext/meta_types/qt6quickstudiomultitext_debug_metatypes.json	f37fbd57ff6205b6
+66009	67868	7362396431713299	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/meta_types/qt6quickstudiomultitext_debug_metatypes.json.gen	f37fbd57ff6205b6
+66009	67868	7362396431713299	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/meta_types/qt6quickstudiomultitext_debug_metatypes.json	f37fbd57ff6205b6
+65831	68316	7362396422686177	qml/QtQuick/Studio/LogicHelper/QuickStudioLogicHelper.qmltypes	ad8577162a4f00d7
+65831	68316	7362396422686177	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/quickstudiologichelper_qmltyperegistrations.cpp	ad8577162a4f00d7
+65831	68316	7362396422686177	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/LogicHelper/QuickStudioLogicHelper.qmltypes	ad8577162a4f00d7
+66284	68508	7362396433512709	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem_resources_2.dir/.rcc/qrc_QuickStudioEventSystem_raw_qml_0_init.cpp.obj	fea54d49ae867cb9
+61107	68800	7362396436881603	_deps/ds-build/src/imports/effects_qt6/CMakeFiles/QuickStudioEffects.dir/quickstudioeffects_qmltyperegistrations.cpp.obj	d6520fbb0386a157
+65405	69053	7362396437271504	_deps/ds-build/src/imports/components/libQuickStudioComponents.a	6ee7f600a70f6ecb
+65570	69592	7362396434932236	_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulatorplugin_init_autogen/mocs_compilation.cpp	43e380ea454a33d6
+75130	83447	7362396591531824	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/quickstudiologichelper_qmltyperegistrations.cpp.obj	8c580f49bd147c37
+65570	69592	7362396434932236	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulatorplugin_init_autogen/timestamp	43e380ea454a33d6
+62316	69850	7362396446078648	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin_init.dir/QuickStudioLogicHelperplugin_init.cpp.obj	3e656c577562df49
+66628	71560	7362396449427566	_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulator_autogen/timestamp	2313e9ea35eea5c9
+68510	71773	7362396454375998	_deps/ds-build/src/imports/flowview/CMakeFiles/FlowViewplugin.dir/FlowViewplugin_autogen/mocs_compilation.cpp.obj	6e82979ae82e590e
+93968	95672	7362396709014002	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystemplugin.dir/QuickStudioEventSystemplugin_autogen/mocs_compilation.cpp.obj	8e5873fef4b5084f
+64192	71944	7362396457235078	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiTextplugin_init.dir/QuickStudioMultiTextplugin_init.cpp.obj	ae53be08a1e41343
+70613	72240	7362396477358588	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_RangeMapper_qml.cpp	fa165800945c6214
+65038	72576	7362396453696198	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/QuickStudioEventSimulatorplugin_autogen/timestamp	6f9399217c3555de
+69314	72667	7362396467631728	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_MinMaxMapper_qml.cpp	ebddc7bca4149382
+90200	91590	7362396671795993	_deps/ds-build/src/imports/tools/eventsystem/meta_types/qt6quickstudioeventsystem_debug_metatypes.json	2287b91148da5923
+69054	73388	7362396470820680	qml/QtQuick/Studio/Components/libQuickStudioComponentsplugin.a	ac7f77a3ef571533
+71561	73853	7362396487445351	_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_OrOperator_qml.cpp	bf8c13d400ee45ce
+71775	74032	7362396490354389	_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_BidirectionalBinding_qml.cpp	3e0044f6b1a791a6
+71775	74032	7362396490354389	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_BidirectionalBinding_qml.cpp	3e0044f6b1a791a6
+106090	106663	7362396825026652	imports/Basics/libBasics.a	7c3b7ccfb4c20bea
+71946	74136	7362396485755864	_deps/ds-build/src/imports/multitext/quickstudiomultitext_qmltyperegistrations.cpp	9c61020b76b647d6
+86092	89236	7362396643555069	_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystem_autogen/timestamp	4a3682e76b8d3559
+71946	74136	7362396485755864	qml/QtQuick/Studio/MultiText/QuickStudioMultiText.qmltypes	9c61020b76b647d6
+71946	74136	7362396485755864	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/multitext/quickstudiomultitext_qmltyperegistrations.cpp	9c61020b76b647d6
+1559	1974	7362407560190654	CMakeFiles/BasicsApp.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_BasicsApp_raw_qml_0.cpp.obj	363e22d058e2334c
+69851	74322	7362396476978697	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_AndOperator_qml.cpp	fa8ebce36caeb0fa
+72668	74539	7362396493563378	_deps/ds-build/src/imports/tools/eventsimulator/.rcc/qrc_QuickStudioEventSimulator_raw_qml_0.cpp	fb705ac43e6826cf
+100228	101106	7362396768924710	_deps/ds-build/src/imports/tools/eventsystem/libQuickStudioEventSystem.a	2bb3fbea047f3ee9
+72668	74539	7362396493563378	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/.rcc/qrc_QuickStudioEventSimulator_raw_qml_0.cpp	fb705ac43e6826cf
+70980	74612	7362396485256034	_deps/ds-build/src/imports/logichelper/.rcc/qmlcache/QuickStudioLogicHelper_NotOperator_qml.cpp	7d0c27f11f46eb39
+73135	74823	7362396501860692	qml/QtQuick/Studio/Effects/libQuickStudioEffectsplugin.a	b77ca36d1eec417d
+66976	75129	7362396481157354	_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_autogen/mocs_compilation.cpp	d916624fde8b4a9
+66976	75129	7362396481157354	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_autogen/mocs_compilation.cpp	d916624fde8b4a9
+67384	75369	7362396490864219	_deps/ds-build/src/imports/flowview/CMakeFiles/FlowView.dir/flowview_qmltyperegistrations.cpp.obj	58f3c8feb6a8bfd
+73389	75541	7362396495632696	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/.rcc/qrc_qmake_QtQuick_Studio_EventSimulator.cpp	644f5b096b378b9a
+73575	75800	7362396500131264	_deps/ds-build/src/imports/tools/eventsimulator/meta_types/QuickStudioEventSimulator_json_file_list.txt.timestamp	180db4eeff5e79dc
+90200	91590	7362396671795993	_deps/ds-build/src/imports/tools/eventsystem/meta_types/qt6quickstudioeventsystem_debug_metatypes.json.gen	2287b91148da5923
+68317	76019	7362396495232837	_deps/ds-build/src/imports/flowview/CMakeFiles/FlowViewplugin.dir/FlowViewplugin_FlowViewPlugin.cpp.obj	1769adb406412dad
+74136	76220	7362396508658495	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText.dir/.rcc/qrc_QuickStudioMultiText_raw_qml_0.cpp.obj	c89a387b559a4458
+861	1085	7362407545525735	meta_types/BasicsApp_json_file_list.txt	540d17b46588c85c
+74613	77187	7362396515596262	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/QuickStudioLogicHelper_autogen/mocs_compilation.cpp.obj	3531621732e428f4
+74823	77228	7362396517825551	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qrc_qmake_QtQuick_Studio_LogicHelper.cpp.obj	704a417535f011fe
+75370	77470	7362396528822023	_deps/ds-build/src/imports/flowview/libFlowView.a	56220ce395cd4f1a
+74033	77641	7362396519724933	_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_init_autogen/mocs_compilation.cpp	22d245875ac851e9
+74033	77641	7362396519724933	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystemplugin_init_autogen/timestamp	22d245875ac851e9
+236	556	7362406454830204	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Bapp.qml	1b1ea6cee39659fb
+77230	78489	7362396542337672	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qrc_QuickStudioLogicHelper_raw_qml_0.cpp.obj	34de36d6f19a7c52
+91590	93249	7362396680053331	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/quickstudioeventsystem_qmltyperegistrations.cpp	f78c26ab203bd1c6
+72240	78809	7362396544147079	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin_init.dir/QuickStudioEventSimulatorplugin_init.cpp.obj	c7732b694140c3e0
+77470	79430	7362396551284774	qml/FlowView/libFlowViewplugin.a	6e28c7136e31223f
+73853	81179	7362396568629190	_deps/ds-build/src/imports/application/CMakeFiles/QuickStudioApplication.dir/QuickStudioApplication_autogen/mocs_compilation.cpp.obj	5c1b1d3b047735c3
+74539	82035	7362396576816557	_deps/ds-build/src/imports/multitext/CMakeFiles/QuickStudioMultiText.dir/quickstudiomultitext_qmltyperegistrations.cpp.obj	7a6cac89e03643ff
+80763	82127	7362396577726267	_deps/ds-build/src/imports/tools/eventsimulator/meta_types/qt6quickstudioeventsimulator_debug_metatypes.json.gen	a9c7d7dc16dba4c5
+1493	2168	7362406471457058	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Bapp_qml.cpp	87cd53be95df2b3e
+80763	82127	7362396577726267	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/meta_types/qt6quickstudioeventsimulator_debug_metatypes.json.gen	a9c7d7dc16dba4c5
+80763	82127	7362396577726267	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/meta_types/qt6quickstudioeventsimulator_debug_metatypes.json	a9c7d7dc16dba4c5
+81180	82340	7362396579195792	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystemplugin_init.dir/QuickStudioEventSystemplugin_init_autogen/mocs_compilation.cpp.obj	625f9ea53621a123
+82036	83625	7362396592621472	_deps/ds-build/src/imports/multitext/libQuickStudioMultiText.a	564f9e5dcaefbf3f
+109810	114742	7362396905779737	CMakeFiles/BasicsApp.dir/basicsapp_qmltyperegistrations.cpp.obj	c5c0ce475dca4239
+75802	83929	7362396596260300	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qmlcache/QuickStudioLogicHelper_BidirectionalBinding_qml.cpp.obj	ed75d0830c40b5f3
+75542	83970	7362396597160017	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qmlcache/QuickStudioLogicHelper_StringMapper_qml.cpp.obj	59824e0a7fbed6df
+82127	84278	7362396588122920	_deps/ds-build/src/imports/tools/eventsimulator/quickstudioeventsimulator_qmltyperegistrations.cpp	ab31405bdfc8d18b
+82127	84278	7362396588122920	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsimulator/quickstudioeventsimulator_qmltyperegistrations.cpp	ab31405bdfc8d18b
+76222	86091	7362396614134542	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qmlcache/QuickStudioLogicHelper_RangeMapper_qml.cpp.obj	63288400321e4e98
+76585	86487	7362396617713395	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qmlcache/QuickStudioLogicHelper_MinMaxMapper_qml.cpp.obj	e958a4dc23c3059d
+88378	91051	7362396654321603	qml/QtQuick/Studio/MultiText/libQuickStudioMultiTextplugin.a	5d2ce47aaa6f53ae
+85021	86848	7362396622121980	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin.dir/QuickStudioEventSimulatorplugin_autogen/mocs_compilation.cpp.obj	ce67c5c1d5d6f0bb
+77188	87040	7362396622171959	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qmlcache/QuickStudioLogicHelper_AndOperator_qml.cpp.obj	b33f9b2b64a039bc
+77642	87285	7362396623551510	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelper.dir/.rcc/qmlcache/QuickStudioLogicHelper_NotOperator_qml.cpp.obj	5613716602d7b759
+85305	87617	7362396624751128	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulator.dir/.rcc/qrc_QuickStudioEventSimulator_raw_qml_0.cpp.obj	3a36b7e5273e2224
+78490	88165	7362396629489599	_deps/ds-build/src/imports/logichelper/CMakeFiles/QuickStudioLogicHelperplugin.dir/QuickStudioLogicHelperplugin_QtQuick_Studio_LogicHelperPlugin.cpp.obj	12ed83674146479c
+86850	88691	7362396640246141	_deps/ds-build/src/imports/application/CMakeFiles/QuickStudioApplication_resources_1.dir/.rcc/qrc_qmake_QtQuick_Studio_Application_init.cpp.obj	213bed6906072027
+87618	88849	7362396642095535	qml/Basics/DirectoryFontLoader.qml	a20667aa6cf7d570
+236	556	7362406454830204	qml/content/Bapp.qml	1b1ea6cee39659fb
+87618	88849	7362396642095535	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/Basics/DirectoryFontLoader.qml	a20667aa6cf7d570
+84436	91848	7362396673775350	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulator.dir/quickstudioeventsimulator_qmltyperegistrations.cpp.obj	3362451154681ec2
+87286	88991	7362396643385121	_deps/ds-build/src/imports/application/CMakeFiles/QuickStudioApplicationplugin_init.dir/QuickStudioApplicationplugin_init_autogen/mocs_compilation.cpp.obj	94dad8cadfc8656f
+87931	89233	7362396643295157	qml/Basics/EventListModel.qml	3d55e63f279a00c1
+87931	89233	7362396643295157	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/Basics/EventListModel.qml	3d55e63f279a00c1
+88166	89234	7362396644494778	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/Basics/Constants.qml	f4a425751fafc407
+90412	94556	7362396687960807	imports/Basics/Basics_autogen/mocs_compilation.cpp	77f35d6bc61e931e
+86092	89236	7362396643555069	_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystem_autogen/mocs_compilation.cpp	4a3682e76b8d3559
+86092	89236	7362396643555069	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/QuickStudioEventSystem_autogen/mocs_compilation.cpp	4a3682e76b8d3559
+89236	90199	7362396656520909	_deps/ds-build/src/imports/tools/eventsystem/meta_types/QuickStudioEventSystem_json_file_list.txt	24c80c64b70d5fad
+89236	90199	7362396656520909	_deps/ds-build/src/imports/tools/eventsystem/meta_types/QuickStudioEventSystem_json_file_list.txt.timestamp	24c80c64b70d5fad
+89236	90199	7362396656520909	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/meta_types/QuickStudioEventSystem_json_file_list.txt	24c80c64b70d5fad
+88993	90411	7362396653371906	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/Basics/EventListSimulator.qml	183ece81cb16da2d
+89393	91214	7362396662528965	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/.rcc/qrc_qmake_QtQuick_Studio_EventSystem.cpp	6e9bf4809f9344da
+89646	91236	7362396663968496	_deps/ds-build/src/imports/tools/eventsystem/.rcc/qrc_QuickStudioEventSystem_raw_qml_0.cpp	467c81e6457556eb
+90200	91590	7362396671795993	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/tools/eventsystem/meta_types/qt6quickstudioeventsystem_debug_metatypes.json.gen	2287b91148da5923
+88850	92122	7362396670506412	imports/Basics/Basicsplugin_init_autogen/mocs_compilation.cpp	b4d1b81952c8aa82
+88850	92122	7362396670506412	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/Basicsplugin_init_autogen/timestamp	b4d1b81952c8aa82
+85558	92473	7362396678453831	_deps/ds-build/src/imports/tools/eventsimulator/CMakeFiles/QuickStudioEventSimulatorplugin.dir/QuickStudioEventSimulatorplugin_QtQuick_Studio_EventSimulatorPlugin.cpp.obj	436e34f6b29f0688
+91590	93249	7362396680053331	_deps/ds-build/src/imports/tools/eventsystem/quickstudioeventsystem_qmltyperegistrations.cpp	f78c26ab203bd1c6
+91590	93249	7362396680053331	qml/QtQuick/Studio/EventSystem/QuickStudioEventSystem.qmltypes	f78c26ab203bd1c6
+91590	93249	7362396680053331	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/QtQuick/Studio/EventSystem/QuickStudioEventSystem.qmltypes	f78c26ab203bd1c6
+108106	109011	7362396845569117	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/basicsapp_qmltyperegistrations.cpp	5bbe35ec01cdfcd1
+92339	94552	7362396691039813	imports/Basics/CMakeFiles/Basicsplugin_init.dir/Basicsplugin_init_autogen/mocs_compilation.cpp.obj	a9453a91d05aeca2
+87042	94555	7362396692569306	_deps/ds-build/src/imports/application/CMakeFiles/QuickStudioApplicationplugin.dir/QuickStudioApplicationplugin_QtQuick_Studio_ApplicationPlugin.cpp.obj	120268bdee0f8648
+90412	94556	7362396687960807	imports/Basics/Basics_autogen/timestamp	77f35d6bc61e931e
+90412	94556	7362396687960807	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/Basics_autogen/mocs_compilation.cpp	77f35d6bc61e931e
+861	1085	7362407545525735	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/BasicsApp_json_file_list.txt.timestamp	540d17b46588c85c
+93692	95349	7362396706034971	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem.dir/.rcc/qrc_qmake_QtQuick_Studio_EventSystem.cpp.obj	6c44ef4850debdc1
+108106	109011	7362396845569117	qml/Main/BasicsApp.qmltypes	5bbe35ec01cdfcd1
+91849	95539	7362396693958840	_deps/ds-build/src/imports/tools/eventsimulator/libQuickStudioEventSimulator.a	800974cdd16dd95f
+88692	95669	7362396690569952	imports/Basics/Basicsplugin_autogen/timestamp	db57b8fac1dae5ec
+88692	95669	7362396690569952	imports/Basics/Basicsplugin_autogen/mocs_compilation.cpp	db57b8fac1dae5ec
+275	733	7362407547795007	BasicsApp_autogen/timestamp	730fa74f04cdaec0
+88692	95669	7362396690569952	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/Basicsplugin_autogen/timestamp	db57b8fac1dae5ec
+94082	95675	7362396710823432	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem.dir/.rcc/qrc_QuickStudioEventSystem_raw_qml_0.cpp.obj	7da98ed90d8ac6d1
+94557	95676	7362396710403541	imports/Basics/.rcc/qrc_qmake_Basics.cpp	ad01492614c0dae9
+94557	95676	7362396710403541	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/.rcc/qrc_qmake_Basics.cpp	ad01492614c0dae9
+93250	95678	7362396702366155	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem.dir/QuickStudioEventSystem_autogen/mocs_compilation.cpp.obj	56504c863b687010
+86488	95682	7362396702626051	_deps/ds-build/src/imports/application/CMakeFiles/QuickStudioApplication.dir/quickstudioapplication.cpp.obj	eb25123ed04084d6
+275	733	7362407547795007	BasicsApp_autogen/mocs_compilation.cpp	730fa74f04cdaec0
+275	733	7362407547795007	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/BasicsApp_autogen/timestamp	730fa74f04cdaec0
+275	733	7362407547795007	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/BasicsApp_autogen/mocs_compilation.cpp	730fa74f04cdaec0
+95053	95866	7362396715371948	imports/Basics/meta_types/Basics_json_file_list.txt.timestamp	116c39bddab05307
+95053	95866	7362396715371948	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/meta_types/Basics_json_file_list.txt	116c39bddab05307
+95867	96389	7362396722049802	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/meta_types/qt6basics_debug_metatypes.json.gen	d83c0dc564ab0a5
+95867	96389	7362396722049802	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/meta_types/qt6basics_debug_metatypes.json	d83c0dc564ab0a5
+96390	97118	7362396725418715	imports/Basics/basics_qmltyperegistrations.cpp	6a1f1a1074a3efbb
+96390	97118	7362396725418715	qml/Basics/Basics.qmltypes	6a1f1a1074a3efbb
+96585	97603	7362396731196934	qml/QtQuick/Studio/Application/libQuickStudioApplicationplugin.a	11f74086c4c812d6
+97119	98080	7362396737804735	imports/Basics/.rcc/qmlcache/Basics_EventListModel_qml.cpp	d2a3ac0693c5ca31
+97251	98156	7362396739334231	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/.rcc/qmlcache/Basics_Constants_qml.cpp	8619dc0f8f96350e
+97346	98278	7362396740793772	imports/Basics/.rcc/qmlcache/Basics_DirectoryFontLoader_qml.cpp	dfca6c50467eaf48
+98426	100216	7362396749271045	imports/Basics/CMakeFiles/Basicsplugin.dir/Basicsplugin_autogen/mocs_compilation.cpp.obj	29a60b42a92f7d21
+98948	100222	7362396756828591	imports/Basics/CMakeFiles/Basics.dir/Basics_autogen/mocs_compilation.cpp.obj	2e076fb753a9e9ce
+93576	100226	7362396750400679	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystem.dir/quickstudioeventsystem_qmltyperegistrations.cpp.obj	e05b396531972422
+94369	100332	7362396756988573	_deps/ds-build/src/imports/tools/eventsystem/CMakeFiles/QuickStudioEventSystemplugin.dir/QuickStudioEventSystemplugin_QtQuick_Studio_EventSystemPlugin.cpp.obj	39e63c8b1ca20480
+101107	101628	7362396774552898	qml/QtQuick/Studio/EventSystem/libQuickStudioEventSystemplugin.a	c7124ecd4e7a7b7e
+98363	103599	7362396794286558	imports/Basics/CMakeFiles/Basicsplugin.dir/Basicsplugin_BasicsPlugin.cpp.obj	7550ed46bef538c4
+99235	104865	7362396806952488	imports/Basics/CMakeFiles/Basics.dir/basics_qmltyperegistrations.cpp.obj	ffac00d85724c4f7
+99263	105518	7362396813430372	imports/Basics/CMakeFiles/Basics.dir/.rcc/qmlcache/Basics_EventListModel_qml.cpp.obj	7f9e6d9d7c8f6e13
+99958	106090	7362396819098549	imports/Basics/CMakeFiles/Basics.dir/.rcc/qmlcache/Basics_DirectoryFontLoader_qml.cpp.obj	e1cbb16c55236af6
+106952	107545	7362396830972722	.rcc/qrc_configuration.cpp	54358e3459817cd0
+106952	107545	7362396830972722	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_configuration.cpp	54358e3459817cd0
+107061	107565	7362396833332968	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_qmake_Main.cpp	d76759a91cbe9dab
+106999	107651	7362396833512899	.rcc/qmlcache/BasicsApp_qmlcache_loader.cpp	28c946f20b44e359
+817	1043	7362407550772768	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_BasicsApp_raw_qml_0.cpp	f21afefde0ad863d
+861	1085	7362407545525735	meta_types/BasicsApp_json_file_list.txt.timestamp	540d17b46588c85c
+107760	108105	7362396839441089	meta_types/qt6basicsapp_debug_metatypes.json.gen	126691a2658fc93c
+107760	108105	7362396839441089	meta_types/qt6basicsapp_debug_metatypes.json	126691a2658fc93c
+107760	108105	7362396839441089	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/qt6basicsapp_debug_metatypes.json.gen	126691a2658fc93c
+108106	109011	7362396845569117	basicsapp_qmltyperegistrations.cpp	5bbe35ec01cdfcd1
+1086	1559	7362407555839002	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/BasicsApp_main_qml.cpp	7bcc162a5698c49b
+109479	110782	7362396861024135	CMakeFiles/BasicsApp.dir/BasicsApp_autogen/mocs_compilation.cpp.obj	c7b34950a4e564cb
+109999	111158	7362396869661379	CMakeFiles/BasicsApp.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qrc_qmake_Main.cpp.obj	4052f83e8fe9a573
+1613	5781	7362407598246992	CMakeFiles/BasicsApp.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/BasicsApp_main_qml.cpp.obj	b64af6d4b56266dc
+109747	115372	7362396911567861	CMakeFiles/BasicsApp.dir/src/main.cpp.obj	126e1daebbd1b7ad
+109723	115549	7362396913867117	CMakeFiles/BasicsApp.dir/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/.rcc/qmlcache/BasicsApp_qmlcache_loader.cpp.obj	7937b53d86f6b626
+122	675	7362409820869658	content/content_autogen/timestamp	32d8727e919de01b
+122	675	7362409820869658	content/content_autogen/mocs_compilation.cpp	32d8727e919de01b
+122	675	7362409820869658	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/content_autogen/timestamp	32d8727e919de01b
+122	675	7362409820869658	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/content_autogen/mocs_compilation.cpp	32d8727e919de01b
+250	1027	7362409821659408	content/contentplugin_init_autogen/timestamp	5f64cde1229e877
+250	1027	7362409821659408	content/contentplugin_init_autogen/mocs_compilation.cpp	5f64cde1229e877
+250	1027	7362409821659408	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/contentplugin_init_autogen/timestamp	5f64cde1229e877
+250	1027	7362409821659408	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/contentplugin_init_autogen/mocs_compilation.cpp	5f64cde1229e877
+74	1029	7362409821719383	BasicsApp_autogen/timestamp	730fa74f04cdaec0
+74	1029	7362409821719383	BasicsApp_autogen/mocs_compilation.cpp	730fa74f04cdaec0
+74	1029	7362409821719383	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/BasicsApp_autogen/timestamp	730fa74f04cdaec0
+74	1029	7362409821719383	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/BasicsApp_autogen/mocs_compilation.cpp	730fa74f04cdaec0
+187	1122	7362409822069271	content/contentplugin_autogen/timestamp	4919d1220b3bc26f
+187	1122	7362409822069271	content/contentplugin_autogen/mocs_compilation.cpp	4919d1220b3bc26f
+187	1122	7362409822069271	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/contentplugin_autogen/timestamp	4919d1220b3bc26f
+187	1122	7362409822069271	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/contentplugin_autogen/mocs_compilation.cpp	4919d1220b3bc26f
+763	1167	7362409819320155	content/meta_types/content_json_file_list.txt	4ff869a7aa61a174
+763	1167	7362409819320155	content/meta_types/content_json_file_list.txt.timestamp	4ff869a7aa61a174
+763	1167	7362409819320155	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/meta_types/content_json_file_list.txt	4ff869a7aa61a174
+763	1167	7362409819320155	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/meta_types/content_json_file_list.txt.timestamp	4ff869a7aa61a174
+678	1373	7362409825008336	content/.rcc/qmlcache/content_qmlcache_loader.cpp	49f3ffabff4ec3e7
+678	1373	7362409825008336	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_qmlcache_loader.cpp	49f3ffabff4ec3e7
+847	1373	7362409826687807	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+847	1373	7362409826687807	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+947	1374	7362409826957708	content/.rcc/qrc_qmake_content.cpp	a8672957c56b49c6
+947	1374	7362409826957708	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_qmake_content.cpp	a8672957c56b49c6
+1168	1788	7362409832036061	content/.rcc/qmlcache/content_App_qml.cpp	1c4dd05bc37bdf5b
+1168	1788	7362409832036061	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_App_qml.cpp	1c4dd05bc37bdf5b
+1266	1846	7362409832695860	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+1266	1846	7362409832695860	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+1924	2565	7362409839733583	content/CMakeFiles/content.dir/.rcc/qrc_qmake_content.cpp.obj	5c073a2918059af7
+2186	2583	7362409840123478	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+1900	6767	7362409882000001	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+1982	6785	7362409882119959	content/CMakeFiles/content.dir/.rcc/qmlcache/content_App_qml.cpp.obj	3ad030683998243c
+1846	7109	7362409885528943	content/CMakeFiles/content.dir/.rcc/qmlcache/content_qmlcache_loader.cpp.obj	3c6f6ecd242d9643
+7109	7784	7362409892334940	content/libcontent.a	996c3d229e67f707
+7784	7985	7362409818730347	meta_types/BasicsApp_json_file_list.txt	540d17b46588c85c
+7784	7985	7362409818730347	meta_types/BasicsApp_json_file_list.txt.timestamp	540d17b46588c85c
+7784	7985	7362409818730347	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/BasicsApp_json_file_list.txt	540d17b46588c85c
+7784	7985	7362409818730347	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/meta_types/BasicsApp_json_file_list.txt.timestamp	540d17b46588c85c
+7986	13184	7362409945776810	BasicsApp.exe	b2b919dcbe610159
+71	248	7362437138159943	qml/content/Screen01.ui.qml	471a65201e6d137b
+71	248	7362437138159943	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+307	649	7362437142026908	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+307	649	7362437142026908	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+249	821	7362437143606393	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+249	821	7362437143606393	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+912	1382	7362437149478162	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+822	5310	7362437188735523	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5310	5945	7362437195139638	content/libcontent.a	996c3d229e67f707
+5946	11366	7362437248787645	BasicsApp.exe	b2b919dcbe610159
+71	223	7362437501729544	qml/content/Screen01.ui.qml	471a65201e6d137b
+71	223	7362437501729544	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+225	470	7362437504038800	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+225	470	7362437504038800	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+268	1117	7362437506997846	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+268	1117	7362437506997846	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+1168	1536	7362437514840487	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+1117	5533	7362437554785401	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5534	6222	7362437561701912	content/libcontent.a	996c3d229e67f707
+6222	11362	7362437612554986	BasicsApp.exe	b2b919dcbe610159
+79	276	7362438170570719	qml/content/Screen01.ui.qml	471a65201e6d137b
+79	276	7362438170570719	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+357	669	7362438174423579	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+357	669	7362438174423579	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+278	853	7362438176083032	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+278	853	7362438176083032	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+932	1343	7362438181312594	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+854	5318	7362438220900267	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5319	6040	7362438228308743	content/libcontent.a	996c3d229e67f707
+6041	11219	7362438279524634	BasicsApp.exe	b2b919dcbe610159
+73	226	7362439115855766	qml/content/Screen01.ui.qml	471a65201e6d137b
+73	226	7362439115855766	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+286	531	7362439118856101	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+286	531	7362439118856101	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+228	742	7362439120685511	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+228	742	7362439120685511	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+797	1151	7362439125076822	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+742	5157	7362439165124122	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5157	6454	7362439178130566	content/libcontent.a	996c3d229e67f707
+6455	11558	7362439228624439	BasicsApp.exe	b2b919dcbe610159
+74	229	7362439422186841	qml/content/Screen01.ui.qml	471a65201e6d137b
+74	229	7362439422186841	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+230	474	7362439424476080	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+230	474	7362439424476080	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+274	927	7362439427257314	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+274	927	7362439427257314	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+978	1342	7362439433314906	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+927	5288	7362439472750681	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5289	5900	7362439478852354	content/libcontent.a	996c3d229e67f707
+5901	11085	7362439530206172	BasicsApp.exe	b2b919dcbe610159
+77	235	7362439999582855	qml/content/Screen01.ui.qml	471a65201e6d137b
+77	235	7362439999582855	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+297	609	7362440003051761	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+297	609	7362440003051761	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+236	874	7362440005650912	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+236	874	7362440005650912	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+926	1288	7362440010118424	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+875	5216	7362440049385766	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5217	5828	7362440055564623	content/libcontent.a	996c3d229e67f707
+5828	10982	7362440106539372	BasicsApp.exe	b2b919dcbe610159
+72	228	7362441715731457	qml/content/Screen01.ui.qml	471a65201e6d137b
+72	228	7362441715731457	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+288	531	7362441718710520	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+288	531	7362441718710520	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+230	804	7362441720569903	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+230	804	7362441720569903	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+855	1227	7362441725705745	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+804	5363	7362441766729671	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5364	6258	7362441776037070	content/libcontent.a	996c3d229e67f707
+6259	11689	7362441829761706	BasicsApp.exe	b2b919dcbe610159
+73	227	7362442482369966	qml/content/Screen01.ui.qml	471a65201e6d137b
+73	227	7362442482369966	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+286	540	7362442485227120	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+286	540	7362442485227120	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+229	1501	7362442487336441	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+229	1501	7362442487336441	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+1558	1935	7362442499387317	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+1501	5869	7362442538759252	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5870	6475	7362442544860348	content/libcontent.a	996c3d229e67f707
+6475	11488	7362442594421686	BasicsApp.exe	b2b919dcbe610159
+74	231	7362446710193148	qml/content/Screen01.ui.qml	471a65201e6d137b
+74	231	7362446710193148	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+233	535	7362446713227405	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+233	535	7362446713227405	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+278	897	7362446716646099	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+278	897	7362446716646099	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+949	1328	7362446721154057	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+897	5417	7362446762034512	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5418	6006	7362446767944985	content/libcontent.a	996c3d229e67f707
+6007	11200	7362446819251789	BasicsApp.exe	b2b919dcbe610159
+71	235	7362459815146300	qml/content/Screen01.ui.qml	471a65201e6d137b
+71	235	7362459815146300	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+237	509	7362459817745463	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+237	509	7362459817745463	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+281	1135	7362459821434706	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+281	1135	7362459821434706	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+1190	1596	7362459828752138	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+1135	5648	7362459869252589	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5649	6282	7362459875643392	content/libcontent.a	996c3d229e67f707
+6283	11476	7362459926988111	BasicsApp.exe	b2b919dcbe610159
+72	229	7362460787169591	qml/content/Screen01.ui.qml	471a65201e6d137b
+72	229	7362460787169591	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml/content/Screen01.ui.qml	471a65201e6d137b
+230	465	7362460789548839	content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+230	465	7362460789548839	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qrc_content_raw_qml_0.cpp	e902d71cef548e6c
+277	911	7362460792707811	content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+277	911	7362460792707811	M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/content/.rcc/qmlcache/content_Screen01.ui_qml.cpp	95e735cb84151cf4
+963	1335	7362460798250999	content/CMakeFiles/content.dir/.rcc/qrc_content_raw_qml_0.cpp.obj	2ba176dccf953075
+912	5401	7362460838880740	content/CMakeFiles/content.dir/.rcc/qmlcache/content_Screen01.ui_qml.cpp.obj	95d6015078ec3792
+5401	5994	7362460844865100	content/libcontent.a	996c3d229e67f707
+5995	11225	7362460896604289	BasicsApp.exe	b2b919dcbe610159

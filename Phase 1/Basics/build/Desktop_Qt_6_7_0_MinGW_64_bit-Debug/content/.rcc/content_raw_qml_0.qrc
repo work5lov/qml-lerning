@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/content/">
+    <file alias="App.qml">M:/git/GitHub/qml-lerning/Phase 1/Basics/content/App.qml</file>
+    <file alias="Screen01.ui.qml">M:/git/GitHub/qml-lerning/Phase 1/Basics/content/Screen01.ui.qml</file>
+    <file alias="fonts/fonts.txt">M:/git/GitHub/qml-lerning/Phase 1/Basics/content/fonts/fonts.txt</file>
+  </qresource>
+</RCC>
+

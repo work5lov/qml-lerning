@@ -1,0 +1,26 @@
+--bare
+-I
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml
+-I
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/qml
+-I
+C:/Qt/new/6.7.0/mingw_64/./qml
+--resource
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/qmake_QtQuick_Studio_Components.qrc
+--resource
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-build/src/imports/components/.rcc/QuickStudioComponents_raw_qml_0.qrc
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/ArcItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/PieItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/TriangleItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/SvgPathItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/EllipseItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/FlipableItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/RectangleItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/RegularPolygonItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/BorderItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/IsoItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/GroupItem.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/ArcArrow.qml
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/_deps/ds-src/src/imports/components/StraightArrow.qml
+--json
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/QuickStudioComponents_qmllint.json

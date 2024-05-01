@@ -1,0 +1,8 @@
+--resource
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/.rcc/qmake_Basics.qrc
+--resource
+M:/git/GitHub/qml-lerning/Phase 1/Basics/build/Desktop_Qt_6_7_0_MinGW_64_bit-Debug/imports/Basics/.rcc/Basics_raw_qml_0.qrc
+/qt/qml/Basics/Constants.qml
+/qt/qml/Basics/DirectoryFontLoader.qml
+/qt/qml/Basics/EventListModel.qml
+/qt/qml/Basics/EventListSimulator.qml
