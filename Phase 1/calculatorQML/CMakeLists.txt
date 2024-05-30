@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.21.1)
 option(LINK_INSIGHT "Link Qt Insight Tracker library" ON)
 option(BUILD_QDS_COMPONENTS "Build design studio components" ON)
 
-project(BasicsApp LANGUAGES CXX)
+project(calculatorQMLApp LANGUAGES CXX)
 
 set(CMAKE_AUTOMOC ON)
 
@@ -13,15 +13,15 @@ if (Qt6_VERSION VERSION_GREATER_EQUAL 6.3)
     qt_standard_project_setup()
 endif()
 
-qt_add_executable(BasicsApp src/main.cpp)
+qt_add_executable(calculatorQMLApp src/main.cpp)
 
-qt_add_resources(BasicsApp "configuration"
+qt_add_resources(calculatorQMLApp "configuration"
     PREFIX "/"
     FILES
         qtquickcontrols2.conf
 )
 
-target_link_libraries(BasicsApp PRIVATE
+target_link_libraries(calculatorQMLApp PRIVATE
     Qt6::Core
     Qt6::Gui
     Qt6::Qml
@@ -45,7 +45,7 @@ if (LINK_INSIGHT)
 endif ()
 
 include(GNUInstallDirs)
-install(TARGETS BasicsApp
+install(TARGETS calculatorQMLApp
     BUNDLE DESTINATION .
     LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
     RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
@@ -54,6 +54,3 @@ install(TARGETS BasicsApp
 # make IDEs aware of the QML import path
 set(QML_IMPORT_PATH ${PROJECT_BINARY_DIR}/qml CACHE PATH
     "Path to the custom QML components defined by the project")
-
-set (VCPKG_ROOT="C:\dev\vcpkg")
-set (PATH=%VCPKG_ROOT%;%PATH%)
